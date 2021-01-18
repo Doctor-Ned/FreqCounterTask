@@ -1,1001 +1,6959 @@
-Znak (EN)	Wystπpienia		Znak (IT)	Wystπpienia		Znak (PL)	Wystπpienia		Liczba (1-1000)	Wystπpienia
-ª	1		Znak pusty	2		å	3		1	1003
-ø	1		´	508		è	1		2	969
-Ô	1		ª	507		ú	1044		3	975
-Nowa linia	100223		‡	396		ü	139		4	1016
-Spacja	751112		Ë	359		£	9		5	965
-!	314		È	241		Ø	5		6	1004
-""""	22		Ï	334		≥	4496		7	961
-#	1		Ú	782		π	1586		8	981
-$	2		˘	186		ø	1778		9	974
-%	1		Nowa linia	752		”	2		10	948
-'	2024		Spacja	33756		Ê	774		11	1054
-(	241		!	160		Í	2517		12	960
-)	241		'	581		Ò	197		13	987
-*	31		,	2051		Û	1842		14	1041
-,	70717		-	105		Nowa linia	28		15	1097
--	98		.	1708		Spacja	31720		16	1012
-.	26420		0	138		!	136		17	1037
-/	24		1	690		""""	8		18	947
-0	5320		2	553		,	3107		19	1007
-1	27091		3	334		-	141		20	1033
-2	18978		4	222		.	2068		21	975
-3	12259		5	180		:	633		22	959
-4	9150		6	161		";"	70		23	1041
-5	7053		7	148		?	138		24	1020
-6	6472		8	145		A	582		25	1010
-7	5917		9	140		B	375		26	1040
-8	5779		:	796		C	214		27	1068
-9	5643		";"	246		D	136		28	962
-:	43827		?	140		E	274		29	1002
-";"	10139		A	647		F	10		30	996
-?	3297		B	116		G	107		31	982
-@	2		C	324		H	47		32	1001
-A	17914		D	380		I	346		33	1016
-B	4714		E	573		J	719		34	982
-C	1696		F	52		K	212		35	1053
-D	8782		G	563		L	184		36	983
-E	2710		H	40		M	174		37	993
-F	2386		I	478		N	313		38	1028
-G	6206		J	5		O	145		39	983
-H	3208		K	22		P	471		40	990
-I	13300		L	291		R	147		41	977
-J	6374		M	216		S	366		42	1055
-K	547		N	194		T	199		43	1023
-L	9222		O	90		U	43		44	1044
-M	3056		P	283		W	316		45	1009
-N	1891		Q	165		Z	175		46	1009
-O	8896		R	212		a	14718		47	1018
-P	1877		S	499		b	3068		48	1014
-Q	6		T	89		c	5511		49	991
-R	7568		U	30		d	6078		50	1053
-S	4905		V	55		e	12618		51	935
-T	7763		Z	46		f	367		52	1028
-U	333		[	1534		g	2401		53	1015
-V	107		]	1534		h	1699		54	991
-W	2408		a	15811		i	14058		55	1031
-X	2		b	1717		j	3136		56	1052
-Y	569		c	5983		k	3799		57	1029
-Z	904		d	5554		l	2641		58	1038
-[	2		e	17741		m	5233		59	1086
-]	2		f	1734		n	6647		60	1012
-a	257813		g	3103		o	12016		61	1043
-b	44161		h	1727		p	3716		62	975
-c	53371		i	16229		r	5773		63	1006
-d	149312		k	17		s	6560		64	1029
-e	409522		l	9161		t	5575		65	1009
-f	81157		m	3643		u	2946		66	1001
-g	49095		n	8897		w	6630		67	1089
-h	279470		o	14097		y	5824		68	1075
-i	180659		p	3835		z	9861		69	1011
-j	2515		q	779					70	1036
-k	21745		r	9451					71	1010
-l	120716		s	7750					72	975
-m	76884		t	8112					73	945
-n	223164		u	4527					74	957
-o	234289		v	2562					75	957
-p	41377		z	665					76	1055
-q	958								77	923
-r	162759								78	1015
-s	185123								79	1028
-t	309981								80	1006
-u	83140								81	1069
-v	30258								82	1056
-w	63079								83	1048
-x	1476								84	1014
-y	58007								85	995
-z	2068								86	1001
-									87	996
-									88	1038
-									89	1037
-									90	975
-									91	1027
-									92	1035
-									93	1028
-									94	981
-									95	1016
-									96	966
-									97	989
-									98	1054
-									99	1025
-									100	998
-									101	1017
-									102	1018
-									103	1027
-									104	999
-									105	1027
-									106	966
-									107	1038
-									108	1023
-									109	1037
-									110	996
-									111	1018
-									112	1005
-									113	989
-									114	1038
-									115	996
-									116	996
-									117	1039
-									118	1038
-									119	1020
-									120	1022
-									121	1016
-									122	1007
-									123	978
-									124	1030
-									125	1025
-									126	981
-									127	1032
-									128	1024
-									129	1026
-									130	1015
-									131	1029
-									132	959
-									133	995
-									134	958
-									135	1011
-									136	1070
-									137	995
-									138	980
-									139	1068
-									140	998
-									141	958
-									142	1032
-									143	997
-									144	1021
-									145	998
-									146	1016
-									147	945
-									148	1089
-									149	1042
-									150	1002
-									151	935
-									152	1058
-									153	952
-									154	1008
-									155	1028
-									156	1023
-									157	976
-									158	1028
-									159	1064
-									160	1031
-									161	966
-									162	969
-									163	955
-									164	1014
-									165	1028
-									166	1082
-									167	961
-									168	979
-									169	1046
-									170	975
-									171	979
-									172	974
-									173	1025
-									174	959
-									175	1031
-									176	1029
-									177	947
-									178	994
-									179	1069
-									180	1029
-									181	1048
-									182	1019
-									183	980
-									184	971
-									185	974
-									186	991
-									187	1044
-									188	1001
-									189	1059
-									190	1015
-									191	1036
-									192	995
-									193	1009
-									194	1028
-									195	1026
-									196	985
-									197	992
-									198	1017
-									199	1008
-									200	1027
-									201	1025
-									202	1048
-									203	1060
-									204	968
-									205	1043
-									206	1032
-									207	999
-									208	986
-									209	1028
-									210	989
-									211	1023
-									212	1000
-									213	1037
-									214	1052
-									215	984
-									216	1047
-									217	985
-									218	969
-									219	954
-									220	996
-									221	1022
-									222	991
-									223	995
-									224	956
-									225	997
-									226	1048
-									227	1010
-									228	1021
-									229	1092
-									230	1052
-									231	1022
-									232	995
-									233	1013
-									234	965
-									235	1032
-									236	952
-									237	958
-									238	978
-									239	995
-									240	1013
-									241	987
-									242	996
-									243	1027
-									244	1007
-									245	986
-									246	1020
-									247	998
-									248	949
-									249	976
-									250	993
-									251	980
-									252	1021
-									253	1027
-									254	986
-									255	991
-									256	1011
-									257	957
-									258	1014
-									259	1063
-									260	984
-									261	997
-									262	1079
-									263	950
-									264	1021
-									265	1033
-									266	1041
-									267	1064
-									268	1041
-									269	1016
-									270	1031
-									271	1057
-									272	1025
-									273	1056
-									274	950
-									275	998
-									276	1033
-									277	1036
-									278	1016
-									279	994
-									280	1048
-									281	1018
-									282	951
-									283	984
-									284	960
-									285	971
-									286	1066
-									287	993
-									288	985
-									289	1009
-									290	1001
-									291	948
-									292	955
-									293	961
-									294	957
-									295	971
-									296	1035
-									297	1066
-									298	983
-									299	1032
-									300	1020
-									301	1000
-									302	994
-									303	1006
-									304	1018
-									305	1026
-									306	1009
-									307	1023
-									308	1002
-									309	1041
-									310	1018
-									311	986
-									312	1047
-									313	1006
-									314	953
-									315	1021
-									316	999
-									317	1032
-									318	1061
-									319	1017
-									320	995
-									321	997
-									322	993
-									323	1057
-									324	1024
-									325	1004
-									326	932
-									327	1014
-									328	963
-									329	998
-									330	1030
-									331	1017
-									332	1009
-									333	1008
-									334	1026
-									335	1038
-									336	944
-									337	1001
-									338	1038
-									339	969
-									340	960
-									341	1015
-									342	961
-									343	1018
-									344	1017
-									345	999
-									346	978
-									347	931
-									348	983
-									349	1030
-									350	1025
-									351	975
-									352	999
-									353	1004
-									354	1036
-									355	1016
-									356	973
-									357	999
-									358	1021
-									359	1005
-									360	1003
-									361	1031
-									362	1005
-									363	984
-									364	986
-									365	1012
-									366	983
-									367	1017
-									368	983
-									369	1070
-									370	1001
-									371	993
-									372	1044
-									373	985
-									374	1031
-									375	1036
-									376	1003
-									377	968
-									378	1037
-									379	993
-									380	1011
-									381	963
-									382	992
-									383	1058
-									384	1001
-									385	986
-									386	1040
-									387	991
-									388	1024
-									389	1040
-									390	1102
-									391	986
-									392	996
-									393	985
-									394	946
-									395	991
-									396	942
-									397	1006
-									398	1031
-									399	946
-									400	1002
-									401	993
-									402	946
-									403	974
-									404	1026
-									405	986
-									406	1021
-									407	966
-									408	1001
-									409	1065
-									410	1015
-									411	1000
-									412	989
-									413	1007
-									414	1028
-									415	997
-									416	984
-									417	1019
-									418	1029
-									419	1014
-									420	1069
-									421	1076
-									422	1044
-									423	927
-									424	976
-									425	1002
-									426	1014
-									427	1015
-									428	979
-									429	1009
-									430	1046
-									431	980
-									432	1045
-									433	1040
-									434	979
-									435	1044
-									436	1003
-									437	1002
-									438	1029
-									439	1083
-									440	980
-									441	1016
-									442	1001
-									443	973
-									444	1023
-									445	985
-									446	992
-									447	1058
-									448	1029
-									449	928
-									450	1042
-									451	1002
-									452	1086
-									453	1043
-									454	985
-									455	994
-									456	1056
-									457	997
-									458	1052
-									459	984
-									460	988
-									461	1000
-									462	983
-									463	978
-									464	1008
-									465	1009
-									466	1002
-									467	1006
-									468	1025
-									469	1012
-									470	949
-									471	987
-									472	1021
-									473	1009
-									474	1009
-									475	967
-									476	999
-									477	975
-									478	1032
-									479	1028
-									480	1011
-									481	996
-									482	1047
-									483	947
-									484	1073
-									485	965
-									486	1005
-									487	976
-									488	935
-									489	1041
-									490	1004
-									491	968
-									492	1001
-									493	969
-									494	1036
-									495	1040
-									496	985
-									497	1011
-									498	1002
-									499	1008
-									500	945
-									501	991
-									502	1045
-									503	983
-									504	1020
-									505	981
-									506	995
-									507	1000
-									508	1072
-									509	938
-									510	993
-									511	1034
-									512	1044
-									513	1000
-									514	1014
-									515	1047
-									516	1029
-									517	982
-									518	1073
-									519	1039
-									520	1005
-									521	996
-									522	1026
-									523	1013
-									524	1053
-									525	1031
-									526	967
-									527	1033
-									528	1011
-									529	994
-									530	1048
-									531	987
-									532	1010
-									533	942
-									534	979
-									535	1015
-									536	1017
-									537	1006
-									538	977
-									539	950
-									540	979
-									541	986
-									542	1009
-									543	1085
-									544	1023
-									545	1025
-									546	1019
-									547	1036
-									548	993
-									549	1043
-									550	994
-									551	1006
-									552	1008
-									553	1030
-									554	1010
-									555	977
-									556	971
-									557	975
-									558	1082
-									559	987
-									560	969
-									561	995
-									562	1023
-									563	1034
-									564	1026
-									565	944
-									566	976
-									567	996
-									568	1017
-									569	1014
-									570	970
-									571	1018
-									572	1007
-									573	1040
-									574	1007
-									575	1001
-									576	1034
-									577	992
-									578	1051
-									579	1054
-									580	1041
-									581	1018
-									582	1030
-									583	940
-									584	1020
-									585	1071
-									586	947
-									587	942
-									588	1066
-									589	992
-									590	996
-									591	1046
-									592	1014
-									593	988
-									594	986
-									595	992
-									596	1013
-									597	965
-									598	983
-									599	1034
-									600	973
-									601	972
-									602	1036
-									603	976
-									604	1032
-									605	958
-									606	1023
-									607	985
-									608	961
-									609	1016
-									610	984
-									611	1071
-									612	1019
-									613	1022
-									614	950
-									615	994
-									616	1028
-									617	992
-									618	1043
-									619	985
-									620	1017
-									621	1051
-									622	962
-									623	1044
-									624	1006
-									625	1010
-									626	1049
-									627	995
-									628	1031
-									629	1003
-									630	1002
-									631	995
-									632	1055
-									633	1058
-									634	988
-									635	978
-									636	938
-									637	1013
-									638	1025
-									639	1055
-									640	976
-									641	996
-									642	1000
-									643	1002
-									644	950
-									645	1012
-									646	1027
-									647	987
-									648	985
-									649	1010
-									650	1028
-									651	1028
-									652	1006
-									653	1039
-									654	968
-									655	996
-									656	1028
-									657	1044
-									658	1025
-									659	1038
-									660	965
-									661	1023
-									662	964
-									663	964
-									664	994
-									665	995
-									666	985
-									667	1004
-									668	952
-									669	1018
-									670	994
-									671	967
-									672	975
-									673	948
-									674	1046
-									675	1023
-									676	994
-									677	989
-									678	995
-									679	1038
-									680	986
-									681	1019
-									682	998
-									683	1028
-									684	1026
-									685	1061
-									686	1039
-									687	1029
-									688	1042
-									689	1010
-									690	991
-									691	979
-									692	994
-									693	1062
-									694	974
-									695	951
-									696	974
-									697	1015
-									698	1020
-									699	1001
-									700	991
-									701	1028
-									702	1014
-									703	1003
-									704	965
-									705	1024
-									706	1020
-									707	1020
-									708	1006
-									709	992
-									710	965
-									711	1051
-									712	1050
-									713	952
-									714	995
-									715	1061
-									716	934
-									717	1008
-									718	967
-									719	979
-									720	1079
-									721	906
-									722	989
-									723	1018
-									724	1039
-									725	1039
-									726	979
-									727	1016
-									728	976
-									729	1000
-									730	979
-									731	1008
-									732	1059
-									733	1024
-									734	944
-									735	981
-									736	1035
-									737	997
-									738	1056
-									739	1037
-									740	994
-									741	1005
-									742	1042
-									743	1018
-									744	1006
-									745	1004
-									746	1039
-									747	984
-									748	1014
-									749	1011
-									750	973
-									751	1020
-									752	1045
-									753	1016
-									754	1050
-									755	1018
-									756	1015
-									757	1041
-									758	1013
-									759	1017
-									760	991
-									761	1063
-									762	1007
-									763	923
-									764	1067
-									765	1017
-									766	1016
-									767	1037
-									768	981
-									769	978
-									770	1000
-									771	985
-									772	1014
-									773	949
-									774	938
-									775	996
-									776	1001
-									777	996
-									778	965
-									779	943
-									780	973
-									781	978
-									782	958
-									783	1010
-									784	915
-									785	1015
-									786	1004
-									787	927
-									788	992
-									789	1000
-									790	1001
-									791	1002
-									792	986
-									793	915
-									794	1009
-									795	943
-									796	966
-									797	990
-									798	928
-									799	981
-									800	957
-									801	1001
-									802	956
-									803	956
-									804	982
-									805	985
-									806	985
-									807	1003
-									808	923
-									809	990
-									810	974
-									811	939
-									812	1034
-									813	973
-									814	1014
-									815	972
-									816	1033
-									817	940
-									818	1072
-									819	989
-									820	1021
-									821	981
-									822	984
-									823	946
-									824	939
-									825	960
-									826	993
-									827	976
-									828	981
-									829	962
-									830	1010
-									831	990
-									832	1053
-									833	1001
-									834	967
-									835	1039
-									836	946
-									837	988
-									838	912
-									839	947
-									840	979
-									841	1009
-									842	1030
-									843	979
-									844	929
-									845	990
-									846	946
-									847	985
-									848	987
-									849	993
-									850	971
-									851	939
-									852	928
-									853	1004
-									854	978
-									855	1043
-									856	1011
-									857	955
-									858	917
-									859	1011
-									860	968
-									861	953
-									862	965
-									863	989
-									864	944
-									865	929
-									866	974
-									867	978
-									868	1039
-									869	951
-									870	965
-									871	1000
-									872	967
-									873	972
-									874	1038
-									875	1006
-									876	921
-									877	964
-									878	1013
-									879	968
-									880	984
-									881	1035
-									882	968
-									883	953
-									884	1026
-									885	973
-									886	1030
-									887	994
-									888	1020
-									889	950
-									890	934
-									891	960
-									892	989
-									893	1023
-									894	993
-									895	964
-									896	1006
-									897	977
-									898	953
-									899	984
-									900	1007
-									901	948
-									902	941
-									903	948
-									904	976
-									905	986
-									906	996
-									907	1013
-									908	1006
-									909	977
-									910	984
-									911	945
-									912	939
-									913	981
-									914	975
-									915	995
-									916	958
-									917	981
-									918	980
-									919	944
-									920	984
-									921	1001
-									922	958
-									923	920
-									924	1004
-									925	955
-									926	981
-									927	955
-									928	941
-									929	990
-									930	953
-									931	995
-									932	1020
-									933	986
-									934	994
-									935	941
-									936	983
-									937	928
-									938	1000
-									939	984
-									940	975
-									941	927
-									942	978
-									943	963
-									944	982
-									945	1012
-									946	998
-									947	947
-									948	920
-									949	929
-									950	937
-									951	979
-									952	962
-									953	962
-									954	963
-									955	974
-									956	991
-									957	972
-									958	994
-									959	959
-									960	916
-									961	956
-									962	997
-									963	972
-									964	925
-									965	977
-									966	956
-									967	967
-									968	1019
-									969	963
-									970	958
-									971	996
-									972	962
-									973	940
-									974	957
-									975	981
-									976	982
-									977	1015
-									978	961
-									979	964
-									980	926
-									981	990
-									982	943
-									983	981
-									984	1006
-									985	1011
-									986	1004
-									987	973
-									988	919
-									989	991
-									990	1018
-									991	951
-									992	984
-									993	1037
-									994	939
-									995	970
-									996	952
-									997	941
-									998	1020
-									999	988
-									1000	939
+A,169
+Abel,3
+AbelMisraim,1
+Abida,1
+Abimael,1
+Abimelek,16
+Abimeleka,4
+Abimelekowi,3
+Abla,5
+Abraham,56
+Abrahama,48
+Abrahamem,3
+Abrahamie,3
+Abrahamowi,14
+Abram,36
+Abrama,25
+Abramem,2
+Abramie,1
+Abramowi,5
+Ach,1
+Achuzat,1
+Ada,2
+Adam,4
+Adama,1
+Adbeel,1
+Admy,3
+Ado,1
+Adullam,3
+Ady,4
+AdÍ,1
+Aj,2
+Ajja,1
+Akan,1
+Akbora,1
+Akkad,1
+Ale,67
+Aleø,7
+Almodad,1
+Alwa,1
+Alwan,1
+Amalek,1
+Amaleka,1
+AmalekitÛw,1
+Ammonitom,1
+Amoryty,1
+AmorytÛw,5
+Amrafel,1
+Amrafela,1
+Ana,4
+Anam,1
+Anera,1
+Anerowi,1
+Anio≥,2
+Anio≥owie,1
+Any,5
+Aram,1
+Arama,1
+Aramejczycy,1
+Aramejczyka,2
+Aramejczykowi,2
+Arana,1
+Ararat,1
+Ard,1
+Areli,1
+Ariok,1
+Arioka,1
+ArkitÛw,1
+Arodi,1
+Arpachszad,5
+Arpachszada,1
+ArwadytÛw,1
+Asenat,3
+Aser,3
+Asera,1
+Aszbel,1
+Aszkanaz,1
+Aszszur,3
+Aszszuru,1
+AszterotKarnaim,1
+Aszurim,1
+Awit,1
+Aø,2
+BaalChanan,1
+Babel,2
+Bardzo,2
+Basmat,5
+Ba≥,2
+Ba≥em,2
+Bedada,1
+BeerSzeba,2
+BeerSzebie,2
+BeerSzeby,5
+BeerSzebÍ,1
+Beeriego,1
+Beker,1
+Bela,2
+Beli,3
+BenAmmi,1
+Beniamin,6
+Beniamina,8
+Beniaminowi,3
+Benoni,1
+Beora,1
+Bered,1
+Berii,1
+Ber≥a,1
+Berπ,1
+Betel,12
+Betlejem,2
+Betuel,1
+Betuela,7
+Bez,2
+Bierz,2
+Bilha,3
+Bilhan,1
+Bilhy,4
+BilhÍ,3
+Biorπc,1
+Birszπ,1
+Bo,3
+Boga,26
+Bogiem,12
+Bogu,2
+Bosmat,1
+Bosry,1
+Boøa,1
+Boøe,5
+Boøy,9
+Boøych,1
+Boøym,2
+Bracia,1
+Brat,1
+Buza,1
+Byli,5
+Byliúmy,2
+Bywa≥o,1
+By≥,4
+By≥a,1
+By≥aby,1
+By≥bym,1
+By≥o,2
+By≥y,1
+ByÊ,2
+B≥ogos≥awieÒstwo,2
+B≥ogos≥awili,1
+B≥ogos≥awi≥,1
+Bπdü,1
+Bπdücie,4
+BÍdzie,6
+BÍdziecie,3
+BÍdziesz,14
+BÍdπ,2
+BÍdπc,2
+BÍdÍ,5
+BÛg,151
+Ca≥e,1
+Ca≥y,3
+Ceg≥y,1
+Chadad,1
+Chaggi,1
+Chaldei,3
+Cham,7
+Chama,3
+ChamatytÛw,1
+Chamor,4
+Chamora,6
+Chamul,1
+Charan,4
+Charana,3
+Charanie,3
+Charanu,3
+Chasarmawet,1
+ChasasonTamar,1
+Chawila,4
+Chazo,1
+Chcemy,1
+Chcesz,1
+Chcia≥,1
+Chcia≥bym,4
+Chcπc,1
+ChcÍ,5
+Cheber,1
+Chemdan,1
+Cheran,1
+Chesron,2
+Chet,1
+Chetyci,3
+Chetyta,1
+Chetytkami,1
+ChetytkÍ,1
+Chetyty,8
+ChetytÛw,7
+Chiddekel,1
+Chiry,1
+Chirπ,1
+Chiwwity,2
+ChiwwitÛw,1
+Choby,1
+Chodzi,1
+Chodü,3
+Chodümy,8
+Chori,1
+Choryci,1
+Choryty,1
+ChorytÛw,1
+ChoÊ,2
+Chul,1
+Chuppim,1
+Chuszam,1
+Chuszama,1
+Chuszim,1
+Chyba,1
+Ch≥opiec,1
+ChÍtnie,2
+Ci,5
+Cia≥o,1
+Ciebie,4
+Cierpiπc,1
+Cieszy≥,1
+Co,8
+Cypr,1
+Czai,1
+Czego,1
+Czeka≥,1
+Czemu,4
+Czemuú,1
+Czemuø,1
+Czy,26
+Czyjπ,1
+Czymøe,1
+Czyniπc,1
+Czyø,15
+CÛrki,1
+CÛø,7
+CÛøeú,4
+CÛøeúcie,1
+Dach,1
+Daj,10
+Dajcie,1
+Dajmy,1
+Dajπc,1
+DajÍ,4
+Damaszku,2
+Dan,4
+Dana,1
+Da≥,2
+Da≥a,2
+Debora,1
+Dedan,1
+Dedana,2
+Dikla,1
+Dina,3
+Dinhaba,1
+Diny,1
+DinÍ,3
+Diszan,3
+Diszon,3
+Diszona,1
+Dla,4
+Dlaczego,9
+DlaczegÛø,1
+Dlatego,23
+Dnia,1
+Do,8
+Dobrze,5
+Dochodzi,1
+Dolina,1
+Doniesiono,1
+Dope≥niwszy,1
+Dopiero,5
+Dopuúciliúcie,1
+Dopuúciliúmy,1
+Dosz≥o,2
+Dotain,2
+Dotar≥,1
+Dotychczas,1
+Dotyczy,1
+Dowiedziano,1
+Dowiedziawszy,2
+Doøy≥,1
+Drugi,1
+Drugiego,1
+Duch,2
+Duma,1
+Dwadzieúcia,1
+Dziecko,1
+Dziewczyna,3
+DzieÊmi,1
+DziÍki,1
+Dπb,2
+Ebal,1
+Eber,4
+Ebera,2
+Echi,1
+Eden,3
+Edenu,1
+Edom,3
+Edomie,4
+EdomitÛw,2
+Edomu,3
+Efa,1
+Efer,1
+Efraim,3
+Efraima,6
+Efraimowi,2
+Efrata,4
+Efron,4
+Efrona,7
+Egipcie,29
+Egipcjan,3
+Egipcjanie,6
+Egipcjanina,1
+Egipcjaninowi,1
+Egipcjanka,1
+Egipcjanom,3
+Egipskiej,1
+Egipt,4
+Egiptem,3
+Egiptu,38
+El,1
+ElBetel,1
+Ela,1
+Elam,1
+Elamu,2
+Eldaa,1
+Eliezer,1
+Elifaz,1
+Elifaza,5
+Elisza,1
+Ellasaru,2
+Elon,1
+Elona,2
+EmitÛw,1
+EnMiszpat,1
+Enajim,2
+Enosz,4
+Enosza,1
+Enoszowi,1
+Er,4
+Era,1
+Erek,1
+Eri,1
+Esbon,1
+Esek,1
+Eser,2
+Esera,1
+Eszban,1
+Eszkola,1
+Eszkolowi,1
+Etiopii,3
+Eufrat,1
+Eufratem,1
+Ewa,1
+Ewy,1
+Ezaw,38
+Ezawa,31
+Ezawem,4
+Ezawie,1
+Ezawowi,5
+Faraon,2
+Fera,3
+Filistyni,2
+FilistynÛw,3
+Gachama,1
+Gad,3
+Gada,1
+Galed,2
+Gas≥,1
+Gatam,2
+Gazy,1
+Gdy,32
+Gdyby,2
+Gdybyú,2
+Gdybyúmy,1
+Gdzie,3
+Gera,1
+Gerary,5
+Gerarze,3
+Gerszon,1
+Geter,1
+Gichon,1
+Gileadu,4
+GirgaszytÛw,2
+Go,2
+Goim,2
+Gomer,1
+Gomera,1
+Gomory,7
+GomorÍ,2
+GorenHaatad,2
+Goszen,11
+GotÛw,2
+Granica,1
+Guni,1
+G≥os,2
+G≥Ûd,4
+Hadad,1
+Hadada,1
+Hadar,1
+Hadoram,1
+Hagar,17
+Hebrajczyk,2
+Hebrajczyka,1
+Hebrajczykami,1
+Hebrajczykowi,1
+HebrajczykÛw,2
+Hebron,1
+Hebronie,1
+Hebronu,3
+Hemam,1
+Henoch,7
+Henocha,2
+Henochowi,1
+Hiob,1
+I,170
+Ich,5
+Idü,6
+Idücie,2
+Idπc,1
+Ile,1
+IlekroÊ,1
+Inaczej,1
+Irad,1
+Irada,1
+Iram,1
+Issachar,3
+Issachara,1
+Izaak,52
+Izaaka,33
+Izaakiem,2
+Izaakowi,5
+Izmael,7
+Izmaela,9
+Izmaelici,1
+IzmaelitkÍ,1
+Izmaelitom,2
+IzmaelitÛw,1
+Izrael,20
+Izraela,13
+Izraelem,1
+Izraelici,2
+IzraelitÛw,1
+Izraelu,1
+Ja,39
+Jabala,1
+Jabbok,1
+Jachleel,1
+Jachseel,1
+Jafet,6
+Jafeta,4
+Jahwe,139
+Jak,4
+Jakim,1
+Jakiú,1
+Jakub,119
+Jakuba,59
+Jakubem,1
+Jakubie,5
+Jakubowi,23
+Jakøe,3
+Jakøeø,2
+Jalam,2
+Jalama,1
+Jamin,1
+Jawan,1
+Jawana,1
+JebuzytÛw,2
+Jeden,1
+Jedna,1
+Jednakøe,2
+Jednemu,1
+Jedno,1
+Jegar,1
+Jego,10
+Jehudit,1
+Jej,1
+Jemuel,1
+Jerach,1
+Jered,3
+Jereda,1
+Jeredowi,1
+Jeser,1
+Jest,7
+Jestem,8
+Jesteú,3
+Jesteúcie,1
+Jesteúmy,2
+Jeszcze,1
+Jetet,1
+Jetur,1
+Jeusz,2
+Jeusza,1
+Jeúli,22
+Jeúliby,1
+Jeøeli,9
+Jidlafa,1
+Jimna,1
+Jiski,1
+Jiszbaka,1
+Jiszwa,1
+JiszwiBeria,1
+Jitran,1
+Jobab,2
+Jobaba,1
+Jokszan,1
+Jokszana,1
+Joktan,1
+Joktana,2
+Jordan,1
+Jordanu,4
+Jubal,1
+Juda,18
+Judo,2
+Judy,5
+Judzie,1
+JudÍ,1
+Juø,6
+JÛzef,93
+JÛzefa,56
+JÛzefem,1
+JÛzefie,1
+JÛzefowi,10
+Kadesz,3
+KadmonitÛw,1
+Kaftor,1
+Kain,10
+Kaina,7
+Kainie,1
+Kalach,2
+Kalne,1
+Kanaan,5
+Kanaana,2
+Kanaanie,22
+Kanaanu,11
+Kananejczycy,4
+Kananejczyka,1
+KananejczykÛw,2
+Kananejki,3
+Karmi,1
+Kasluch,1
+Kaza≥,1
+Kaza≥a,1
+Kaøde,1
+Kaødy,1
+Kedar,1
+Kedma,1
+Kedorlaomer,2
+Kedorlaomera,2
+Kedorlaomerem,1
+Kehat,1
+Kemuela,1
+Kenan,3
+Kenana,1
+Kenanowi,1
+Kenaz,3
+KenitÛw,1
+KenizytÛw,1
+Keseda,1
+Ketura,1
+Ketury,1
+Kezib,1
+Kiedy,70
+Kiedyúmy,2
+Kim,2
+KiriatArba,2
+Kiriataim,1
+Kogoú,1
+Korach,3
+Koracha,1
+KrainÍ,1
+Kraj,3
+Krew,1
+KrÛlem,1
+KrÛlewskiej,1
+KrÛlowie,1
+KsiÍga,1
+Kto,3
+Ktokolwiek,2
+KtÛryú,1
+KtÛø,2
+Kupcie,1
+Kusz,1
+K≥adÍ,1
+K≥osy,2
+Laban,30
+Labana,22
+Labanowi,3
+LachajRoj,3
+Lamek,7
+Lameka,3
+Lamekowi,1
+Lea,15
+Lebana,1
+Lechab,1
+Lecz,24
+Lei,12
+Lekarze,1
+Lemim,1
+Leszy,1
+Letuszim,1
+Lewi,4
+Lewiego,2
+Leπ,1
+LeÍ,7
+Lot,15
+Lota,14
+Lotan,2
+Lotana,2
+Lotowi,1
+Lud,2
+Ludzi,1
+Ludzie,3
+Luz,3
+LÍkam,1
+Ma,1
+MaakÍ,1
+Machalat,1
+Machanaim,1
+Macie,1
+Madej,1
+Madianici,1
+MadianitÛw,1
+Magdiel,1
+Magog,1
+Mahalaleel,3
+Mahalaleela,1
+Mahalaleelowi,1
+Majπ,1
+Makira,1
+Makpela,5
+Makpeli,1
+Malkiel,1
+Mam,2
+Mamre,8
+Mamremu,1
+Mamy,2
+Manachat,1
+Manasses,4
+Manassesa,5
+Manassesowi,2
+Masreki,1
+Massa,1
+Masz,6
+Matredy,1
+Matuszelachowi,1
+Ma≥o,1
+MeZahab,1
+Mechujael,1
+Mechujaela,1
+Medana,1
+Mehetabeel,1
+Melchizedek,1
+Merari,1
+Meszek,1
+Meszy,1
+Metuszael,1
+Metuszaela,1
+Metuszelach,3
+Metuszelacha,1
+Mezopotamii,1
+Miasto,1
+Mia≥,4
+Mia≥aøbym,1
+Mia≥em,1
+Mibsam,1
+Mibsar,1
+Midiana,2
+Miej,1
+Miejsce,1
+Miejscu,3
+Mieliúmy,2
+Mieszka≥,1
+Mieszka≥a,1
+MieszkaÒcy,2
+MigdalEder,1
+Milka,4
+Milki,3
+Mispa,1
+Miszma,1
+Mizza,2
+Mnie,2
+Mnπ,3
+Moab,1
+Moabitom,1
+Moabu,1
+Moglibyúcie,1
+Mogπ,1
+Moi,2
+Moim,1
+Moja,1
+Moje,1
+More,1
+Moria,1
+Morze,1
+Moøe,3
+Moøecie,3
+Moøemy,2
+Moøesz,4
+Muppim,1
+Musisz,2
+MuszÍ,2
+My,3
+Myúla≥,2
+Myúleli,1
+M≥odsza,1
+M≥odzieniec,1
+MÍøczyzna,1
+MÍøczyünie,1
+MÛj,6
+MÛw,1
+MÛwili,4
+MÛwiliúmy,1
+MÛwi≥,4
+MÛwiπc,1
+Na,42
+Naama,1
+Naaman,1
+Nachat,2
+Nachor,7
+Nachora,9
+Nachorowi,1
+Nadano,3
+Nada≥,1
+Nada≥a,1
+Nadejdzie,1
+Nadstawcie,1
+Nadto,5
+Nafisz,1
+Naftali,1
+Naftuch,1
+Nagle,2
+Nagromadzone,1
+Najad≥em,1
+Najm≥odszy,1
+Najpierw,1
+Najwyøszego,3
+Najwyøszy,1
+Nam,1
+Napewno,1
+NapÛjcie,1
+NastÍpcπ,1
+NastÍpnego,2
+NastÍpnie,4
+Nasyp,1
+Nasz,1
+Natomiast,4
+Natychmiast,1
+Nazajutrz,1
+Nazbierali,1
+Naznoúcie,1
+Nazwa,1
+Nazwano,2
+Nebajot,1
+Nebajota,2
+Neftalego,1
+Neftali,2
+Negebie,1
+Negebu,4
+Nic,1
+Niczego,1
+Nie,69
+Niech,53
+Niechaj,1
+Niechøe,1
+Niego,3
+Nieobrzezani,1
+Nieprawda,1
+Niestety,1
+Niewolnicom,1
+Niezbyt,1
+Nigdy,3
+Nikt,1
+Nilu,5
+Nim,2
+Nimrod,2
+Niniwπ,1
+NiniwÍ,1
+Nios≥em,1
+Nod,1
+Noe,22
+Noego,15
+Noem,1
+Noemu,2
+O,9
+Obaj,1
+Obal,1
+Obdarzy≥,1
+Obecnie,1
+Obejmiesz,1
+Oboje,1
+Obudziwszy,1
+Oby,2
+Obym,1
+Obyú,1
+Obyø,1
+Ob≥upione,1
+Ocala≥,1
+Oczy,2
+Od,9
+OdchodzÍ,1
+Odczeka≥,1
+Oddali,1
+Oddam,1
+Odejdü,1
+Odpowiedzia≥,10
+Odpowiedzia≥a,1
+Odpowiedzia≥em,1
+Odpowiedzieli,3
+Odpowiedzieliúmy,2
+Odszed≥,1
+Odtπd,1
+Odziedziczy,1
+Odzyska≥,1
+Od≥πcz,1
+Ofir,1
+Ogarnπ≥,1
+OgarnÍ≥o,1
+Ohad,1
+Oholibama,4
+Oholibamy,2
+OholibamÍ,1
+Ojciec,1
+Ojcze,5
+Okaø,1
+Omar,2
+On,14
+Ona,4
+Onam,1
+Onan,3
+Onana,1
+Oni,2
+Opowiedzcie,1
+Opowiedzia≥,1
+Opowiedzia≥em,1
+Opowiedzieliúmy,1
+Opuúci≥y,1
+Op≥akiwanie,1
+Osiad≥,1
+Osiedli,1
+Ostatecznie,1
+Ostatniemu,1
+Oszuka≥eú,1
+Oto,21
+Otrzymasz,1
+Otrzyma≥,1
+Otrzymywali,1
+OtÛø,2
+Owce,1
+Oúwiadczy≥,1
+PaddanAram,10
+PaddanArm,1
+Pallu,1
+PamiÍtaj,1
+PamiÍtajcie,1
+Pan,6
+Pana,6
+Paneach,1
+Panem,1
+Panie,18
+Panu,1
+Paran,2
+Pasterzami,1
+Patrus,1
+Patrzcie,2
+Patrzyliúmy,1
+Pau,1
+PaÒski,3
+PaÒskiego,1
+Peleg,4
+Pelega,1
+Penuel,2
+Perat,1
+Peres,2
+Peresa,1
+Peryzzyci,2
+PeryzzytÛw,1
+Pewien,1
+Pewnego,14
+Pewnie,2
+Pe≥nomocnicy,1
+PieczarÍ,1
+Pierworodnemu,1
+Pierwszego,1
+Pierwszy,1
+Pikol,2
+Pikola,1
+Pildasza,1
+Pinon,1
+Piszon,1
+Po,46
+Pobieg≥a,1
+Pob≥ogos≥aw,1
+Pob≥ogos≥awi≥,2
+Pochowacie,1
+Pochowajcie,1
+Pochowali,1
+Pochowano,2
+Pochowawszy,1
+Pochowa≥em,1
+Poczπtkowo,1
+Pod,1
+Podaj,1
+Podczas,1
+Podejdü,1
+Podejdücie,1
+Podesz≥a,1
+Podnieú,3
+PodniÛs≥,1
+Podobnie,2
+Podszed≥,2
+Podzieli≥,1
+PodzielÍ,1
+Pogrzeb,1
+Pojawili,1
+Pole,1
+Poleci≥,2
+Polubi≥,1
+Pomyúla≥em,2
+Ponadto,8
+Poniewaø,4
+Popatrz,2
+Popatrzcie,2
+Popatrzy≥,1
+Porwa≥,1
+PorÛd,1
+Posiada≥,2
+Posiliwszy,1
+Postanowili,1
+Postanowi≥em,1
+Postπpi≥eú,1
+Poszed≥,4
+Posz≥a,2
+Pos≥a≥,2
+Pos≥uchaj,5
+Pos≥uchajcie,3
+Potem,83
+Poti,3
+Potifar,4
+Potifara,1
+Potifarowi,1
+Potomstwo,1
+Potop,1
+Potrawy,1
+Potrzebowali,1
+Powiedz,5
+Powiedzcie,2
+Powiedzia≥,20
+Powiedzia≥a,2
+Powiedzia≥em,1
+Powiedzieli,2
+Powiesz,1
+Powinien,2
+Powsta≥,1
+Powtarzaliúmy,1
+Poza,3
+Pozbawiacie,1
+Poziom,1
+Pozostawa≥,1
+PozostaÒ,3
+PozwÛl,4
+PozwÛlcie,2
+Poúpiesz,1
+Poúpieszcie,1
+Po≥oøna,1
+Po≥oøy≥,1
+Po≥Ûø,1
+Poøegnawszy,1
+Poøegna≥,1
+PragnÍ,4
+Prawda,1
+Prawdziwie,1
+ProszÍ,1
+Prowadzi≥,1
+Przebacz,1
+Przebudziwszy,1
+Przebywa≥em,1
+Przecieø,12
+Przedtem,3
+PrzekazujÍ,1
+Przenieú,1
+Przenieúli,1
+Przenosi≥,1
+Przeprawi≥,1
+Przestanie,1
+Przeto,1
+Przetrzπsnπ≥eú,1
+Przez,6
+Przeúladujπ,1
+Prze≥oøony,2
+Przy,1
+Przybyli,2
+Przybyliúcie,1
+Przybyliúmy,1
+Przybywaj,1
+Przyby≥,1
+Przychodzili,1
+Przychodzimy,1
+Przygotowa≥,1
+Przygotuj,1
+Przyjmij,1
+Przymierze,2
+Przynajmniej,1
+Przyniesiono,1
+PrzyniosÍ,1
+Przyodzia≥,1
+Przypomnia≥,1
+Przyprowadzi≥,1
+Przyprowadzi≥a,1
+PrzypÍdzano,1
+PrzypÍdücie,1
+PrzysiÍgam,2
+PrzysiÍgnij,1
+Przyszed≥,3
+Przyszed≥szy,1
+Przywiπøe,1
+Przywo≥ali,1
+Przywo≥a≥,2
+PrzyúlÍ,1
+PrÛbowali,1
+PrÛcz,1
+Put,1
+Puwwa,1
+PuúÊ,1
+Pyta≥,2
+P≥aczu,1
+P≥aczπc,1
+P≥aka≥,1
+PÛjdü,1
+PÛjdÍ,3
+Rachel,23
+Racheli,9
+Rachelπ,2
+RachelÍ,10
+Racz,1
+Rama,1
+Ramy,1
+Ramzesa,1
+Rankiem,1
+Rano,1
+Razem,2
+Rebece,5
+Rebeka,13
+Rebeki,7
+RebekÍ,6
+Rechobot,2
+RechobotIr,1
+RefaitÛw,2
+Resan,1
+Reszta,1
+Reu,4
+Reuel,1
+Reuela,4
+Reuma,1
+Rifat,1
+Rodos,1
+Rodzaju,1
+Rok,1
+Rosz,1
+Rozdarli,1
+Rozdzieli≥,1
+Rozgniewa≥,1
+Rozjuczono,1
+Roz≥Ûø,1
+Ruben,11
+Rubena,1
+Ruszaj,2
+Ruszamy,1
+Ruszyli,2
+Ruszy≥,2
+Rzeczywiúcie,1
+Rzeki,2
+Rzek≥,8
+Rzek≥a,2
+RÛb,1
+RÛwnieø,1
+Saba,2
+Sabta,1
+Sabteka,1
+Saby,1
+Safnat,1
+Sahaduta,1
+Sam,7
+Sama,1
+Same,1
+Samego,1
+Samla,2
+Sara,23
+Saraj,15
+Sary,7
+Sarze,2
+SarÍ,5
+Schroni≥,1
+Seba,1
+Seboimu,3
+Sefaru,1
+Sefo,2
+Seir,1
+Seira,2
+Seiru,4
+Seirze,1
+Sem,8
+Sema,7
+SemarytÛw,1
+Serach,1
+Sered,1
+Serug,3
+Seruga,1
+Set,4
+Seta,1
+Setowi,2
+Sibeon,2
+Sibeona,4
+Siddim,3
+Siedem,2
+Sifion,1
+Silla,2
+Sillo,1
+SinitÛw,1
+Siostro,1
+Sitna,1
+Si≥a,1
+SiÛdmego,1
+Skarga,1
+Skoro,4
+SkoÒczmy,1
+SkoÒczywszy,1
+Sk≥oni≥,1
+Skπd,1
+Smuci≥,1
+Soar,5
+Soaru,2
+Sochar,1
+Sochara,2
+Sodomie,1
+Sodomy,15
+SodomÍ,3
+Spa≥am,1
+Spe≥nimy,1
+Spokojnie,1
+Sporzπdzi≥,1
+SporzπdzÍ,1
+SpoúrÛd,2
+Sprawa,1
+Sprawi≥,1
+SprawiÍ,1
+Sprowadzili,1
+Sprowadziliúcie,1
+Sprowadü,1
+SpÍdzi≥,1
+Stada,1
+Stamtπd,2
+Staniesz,1
+Starsza,2
+Sta≥a,1
+Sta≥o,1
+Sta≥y,1
+Strumienie,1
+Studnia,4
+Studnie,1
+Studniπ,1
+Stwarzajπc,1
+Stwierdziliúmy,1
+Stworzy≥,4
+StwÛrcy,1
+StwÛrzmy,1
+Stπd,1
+Sukkot,2
+Swoje,1
+Swojej,1
+Swojemu,1
+Sychem,14
+Sychema,5
+Sydon,1
+Sydonu,2
+Symeon,5
+Symeona,5
+Syn,1
+Synami,20
+Synem,1
+Synowi,1
+Synowie,12
+Synu,1
+Szalem,1
+Szamma,2
+Szaul,2
+Szaula,1
+Szawe,1
+Szefo,1
+Szela,4
+Szelach,4
+Szelacha,2
+Szelef,1
+Szeli,1
+Szemeeberem,1
+Szibea,1
+Szillem,1
+Szimron,1
+Szinabem,1
+Szinear,2
+Szinearu,2
+Szliúmy,1
+Szobal,2
+Szobala,1
+Szua,1
+Szuacha,1
+Szukam,1
+Szuni,1
+Szur,3
+Szuy,1
+Szybko,1
+S≥one,1
+S≥owa,2
+S≥uchaj,1
+S≥ucham,2
+S≥udzy,3
+S≥uga,2
+S≥usznie,2
+S≥uøy≥em,1
+S≥ysza≥,1
+S≥ysza≥am,1
+S≥ysza≥em,3
+Sπ,8
+Ta,4
+Tachasza,1
+Tak,36
+Taka,2
+Taki,1
+Takie,1
+Takπ,1
+Takøe,2
+Tam,12
+Tamar,6
+Tamten,1
+Tarszisz,1
+Te,1
+Tebacha,1
+Tego,4
+Tema,1
+Teman,3
+TemanitÛw,1
+Ten,9
+Terach,5
+Teracha,3
+Teraz,9
+Tidal,1
+Tidala,1
+Timna,3
+Timny,3
+Tiras,1
+To,20
+Tobie,2
+Tobπ,1
+Togarma,1
+Tola,1
+Towarzyszyli,1
+Towarzyszy≥,2
+Trzeba,1
+Trzy,2
+Tubal,1
+TubalKaina,2
+Tutejsi,1
+Twoi,4
+Twoim,2
+Twoje,2
+Twojego,1
+Twojej,1
+Twojemu,1
+Twojπ,1
+TwÛj,6
+Ty,3
+Tych,1
+Tyle,1
+Tylko,8
+Tym,3
+Tymczasem,14
+Tyú,1
+U,1
+Uciek≥am,1
+Uczyni≥em,1
+Uczyni≥eú,1
+UczyniÍ,3
+Udaj,1
+Udajcie,1
+Udasz,1
+Uda≥,1
+Ukaza≥,1
+Ukryj,1
+Uleg≥y,1
+Ulewa,1
+Umar≥,4
+Umar≥a,1
+Upadli,1
+Upodobawszy,1
+Upoi≥y,1
+Uprowadzili,2
+Uprowadzono,1
+Up≥ynie,1
+Ur,3
+Uratowa≥eú,1
+Us,1
+Usa,2
+Ustanowi≥,1
+Us≥yszawszy,1
+Us≥ysza≥,1
+Us≥ysza≥em,1
+Utar≥o,1
+Uwaøaj,1
+Uwierzy≥,1
+Uzal,1
+Uznajemy,1
+W,61
+Wasze,1
+Wczesnym,2
+Wejdziesz,1
+Wejdü,1
+Wejrza≥,1
+Wejúcie,1
+Weü,3
+Weücie,1
+Widzi,1
+Widzia≥em,1
+Widzisz,1
+Widzπc,1
+WidzÍ,2
+Wiecie,1
+Wiedzia≥,1
+Wiedzie,1
+Wiedzπc,1
+Wiekuistym,1
+Wielkiej,1
+Wiem,5
+Wiesz,3
+Wiπzaliúmy,1
+WiÍc,1
+WkrÛtce,2
+Wody,5
+WolÍ,1
+Wozy,1
+Wprowadzam,1
+Wprowadzono,1
+Wprowadü,1
+Wracaj,2
+Wracajcie,1
+Wraz,1
+Wreszcie,2
+WrÛci≥,3
+Wschodu,1
+Wskutek,1
+Wspomniawszy,1
+WspÛlnie,1
+Wstawszy,2
+Wsta≥,1
+WstaÒ,1
+Wszechmocny,5
+Wszelkie,2
+Wszyscy,11
+Wszystkich,6
+Wszystkie,4
+Wszystko,8
+Wtedy,103
+Wy,2
+Wybacz,1
+Wybierzemy,1
+Wybra≥,2
+Wybuch≥,1
+Wydaj,1
+Wydawszy,1
+Wyda≥,1
+Wyda≥a,1
+Wyjdü,3
+Wykupi≥,1
+Wymordowali,1
+Wyprawili,1
+Wyruszyli,1
+Wyruszywszy,1
+Wyruszy≥,3
+Wyruszy≥o,1
+WyrzuÊ,1
+Wystarczy,1
+Wyszed≥,3
+Wys≥uchawszy,1
+Wys≥ucha≥,1
+Wytraci≥,1
+Wyúlijcie,1
+Wyúwiadczysz,1
+Wziπ≥,6
+WziÍli,1
+W≥adca,2
+W≥adcy,1
+W≥asnymi,1
+W≥aúnie,2
+Wπø,1
+WÛwczas,7
+Z,18
+Za,4
+Zaawan,1
+Zabierajcie,1
+Zabierz,2
+Zabierzcie,4
+Zabrali,3
+Zabra≥,3
+Zabulon,3
+Zabulona,1
+Zachowaj,1
+Zaczπ≥,3
+ZaczÍli,1
+Zadomowili,1
+Zajmowa≥,1
+Zaledwie,3
+Zamieszkacie,1
+Zamieszkasz,1
+Zamknπ≥,1
+Zanim,1
+Zapasy,1
+Zapewne,1
+Zapewni≥em,1
+ZaprawdÍ,1
+Zapyta≥,4
+Zap≥aci≥am,1
+Zaraz,1
+Zarazem,1
+Zarzπdca,3
+Zatrzyma≥,1
+Zatrzyma≥a,1
+Zatrzyma≥y,1
+Zaufaj,1
+Zauwaøyli,1
+Zauwaøy≥,1
+Zauwaøy≥a,1
+Zawieram,1
+Zawo≥ajmy,1
+Zawo≥a≥,1
+Za≥adujcie,1
+Za≥oøy≥,1
+Zbierzcie,1
+Zbliø,1
+Zbliøyli,1
+Zbliøy≥,3
+Zbliøy≥a,1
+Zboczy≥,1
+Zbuduj,1
+Zdjπ≥,2
+ZdjÍ≥a,1
+Zdo≥a≥em,1
+Zdziwieni,1
+Ze,7
+Zebra≥,2
+Zechciej,3
+Zechciejcie,1
+Zejdücie,1
+Zerach,4
+Zeracha,1
+Zerwa≥a,1
+ZeúlÍ,3
+Zgodnie,2
+Ziemia,5
+Ziemie,1
+Zilpa,3
+Zilpy,3
+ZilpÍ,2
+Zimrana,1
+Zleci≥,1
+Znaczenie,2
+Znajdowa≥,1
+Znajduje,1
+Znalaz≥,1
+Znik≥y,1
+Zniszczy≥,1
+ZniszczÍ,1
+Znowu,1
+Zobacz,1
+Zobaczyli,1
+Zobaczymy,1
+Zobaczywszy,2
+Zostali,1
+Zostawcie,2
+Zosta≥a,1
+Zosta≥am,1
+ZostaÒ,1
+ZostaÒcie,2
+Zresztπ,1
+Zrobi≥,1
+Zrobi≥em,1
+ZrobiÍ,2
+ZrÛb,1
+ZrÛbcie,2
+Zsiad≥a,1
+ZuzytÛw,1
+ZwrÛci≥,1
+ZwrÛcono,1
+ZwrÛÊ,1
+ZwyciÍzcy,1
+Z≥oøy≥,1
+Z≥Ûø,2
+a,199
+aby,40
+abym,3
+abyú,3
+abyúcie,3
+akurat,2
+albo,11
+ale,43
+ani,18
+anio≥,8
+anio≥a,2
+anio≥owie,3
+anio≥Ûw,2
+arce,5
+arka,3
+arki,19
+arkÍ,4
+atakowa≥,1
+ataku,1
+aø,36
+balsamowanie,1
+balsamowaÊ,1
+barana,2
+baranami,1
+baranek,1
+baranka,1
+baranÛw,1
+bardziej,6
+bardzo,61
+barwny,3
+ba≥,1
+bez,8
+bezboønych,1
+bezboønym,1
+bezboønymi,1
+bezmiar,1
+bezpieczeÒstwo,1
+bezp≥odna,4
+bezradnie,1
+bez≥adna,1
+bia≥e,12
+bia≥ej,1
+bicia,1
+bieg≥a,1
+bierz,3
+bierzcie,2
+biodro,3
+biodrowy,2
+biodrowym,1
+biorπc,1
+biÊ,2
+blasku,1
+bliski,1
+bliskich,1
+bliskiego,1
+blisko,2
+bliüniÍta,2
+bliøej,3
+bo,48
+bogactwa,1
+bogatszy,1
+bogatym,1
+bogatπ,1
+bogÛw,1
+bojaüni,1
+bojaüniπ,1
+bojπ,1
+boku,3
+bolesne,1
+bowiem,33
+boøkÛw,2
+braci,31
+bracia,25
+braciach,1
+braciom,11
+brak,1
+braku,1
+brali,3
+brama,1
+bramami,1
+bramie,2
+bramy,5
+bramÍ,1
+branki,1
+bransolety,3
+brat,24
+brata,46
+bratanka,2
+bratem,7
+bratu,5
+bra≥,1
+braÊmi,6
+brzeg,1
+brzegiem,6
+brzemieniem,1
+brzemienna,20
+brzemienne,1
+brzemiennoúci,1
+brzuchu,1
+brÛd,1
+budowane,1
+budowlany,1
+budowy,1
+budzi,1
+budzπ,1
+buk≥ak,2
+buk≥aku,1
+by,20
+byd≥a,11
+byd≥em,2
+byd≥o,9
+bylebyúcie,1
+bylebyúmy,1
+byli,36
+bym,2
+bywa,1
+byú,2
+byúmy,1
+by≥,46
+by≥a,28
+by≥aby,1
+by≥aú,1
+by≥by,1
+by≥bym,1
+by≥em,1
+by≥eú,1
+by≥o,38
+by≥oby,1
+by≥y,20
+byÊ,24
+b≥agajπc,1
+b≥ogi,1
+b≥ogos≥awi,1
+b≥ogos≥awieÒstwa,9
+b≥ogos≥awieÒstwem,14
+b≥ogos≥awieÒstwo,25
+b≥ogos≥awione,1
+b≥ogos≥awionego,1
+b≥ogos≥awiony,4
+b≥ogos≥awi≥,8
+b≥ogos≥awiÊ,1
+b≥yszczeÊ,1
+b≥yszczπca,1
+b≥πka≥,1
+b≥πka≥a,1
+bπdü,2
+bπdücie,1
+bÍbny,1
+bÍdzie,97
+bÍdziecie,6
+bÍdziemy,4
+bÍdziesz,21
+bÍdπ,29
+bÍdπc,1
+bÍdÍ,21
+bÛj,2
+bÛjcie,3
+bÛlu,1
+bÛstw,2
+ca≥a,8
+ca≥e,10
+ca≥ego,15
+ca≥ej,16
+ca≥emu,1
+ca≥kiem,3
+ca≥kowicie,3
+ca≥o,1
+ca≥opalenia,3
+ca≥owa≥,1
+ca≥oúÊ,1
+ca≥y,28
+ca≥ym,26
+ca≥π,24
+cegie≥,1
+cel,4
+celem,1
+cenne,1
+cennego,1
+cenÍ,1
+chce,2
+chcecie,3
+chcemy,3
+chcesz,3
+chcia≥,5
+chcia≥bym,1
+chcia≥byú,1
+chcia≥em,1
+chcia≥eú,2
+chcia≥y,1
+chcieliby,2
+chcπc,2
+chcÍ,1
+cherubÛw,1
+chetyckimi,1
+chleb,16
+chleba,8
+chleby,1
+chociaø,2
+chodzi,2
+chodzisz,1
+chodzi≥,2
+chodzi≥o,1
+chodziÊ,1
+chodzÍ,1
+chorowaÊ,1
+choryckich,3
+chowanie,3
+choÊ,6
+choÊby,4
+chroniÊ,1
+chude,3
+chudych,1
+chwili,5
+chwilÍ,1
+chwycili,1
+chwyciwszy,1
+chwyci≥,1
+chwyci≥a,3
+chyba,2
+ch≥odu,1
+ch≥opca,6
+ch≥opcem,1
+ch≥opcu,3
+ch≥opcÛw,3
+ch≥opiec,2
+chÍtnie,3
+ci,90
+ciasto,1
+cia≥a,3
+cia≥em,6
+cia≥o,5
+ciebie,50
+ciele,2
+cielesnπ,1
+cielÍ,1
+cielÍcia,1
+ciemiÍøycieli,1
+ciemnoúci,5
+ciemnoúÊ,1
+cieniu,1
+ciep≥o,1
+ciernie,1
+cierpieÒ,1
+cieszy≥,1
+ciπgle,3
+ciπgnÍ≥y,1
+ciπøyÊ,1
+ciÍ,36
+ciÍøarem,1
+ciÍøki,1
+ciÍøkie,1
+ciÍøko,1
+co,119
+cofnÍ≥o,1
+cokolwiek,4
+coraz,7
+corocznych,1
+coú,19
+coúcie,2
+cudzoziemcem,1
+cudzoziemcy,1
+cudzoziemiec,5
+cudzoziemki,1
+cytrze,1
+czarne,9
+czarnej,1
+czarnymi,1
+czas,14
+czasach,1
+czasem,5
+czasie,21
+czasu,5
+czasy,1
+czasÛw,4
+czci,1
+czciπ,1
+czego,9
+czegoú,2
+czeka,1
+czekam,1
+czeka≥,1
+czele,1
+czerpano,1
+czerwieÒ,1
+czerwonej,2
+czerwony,2
+czerwonπ,2
+czeúÊ,3
+czo≥a,1
+czo≥ga,1
+czo≥gajπ,1
+czo≥gajπce,4
+czo≥gajπcych,1
+czo≥ga≥,1
+czterdziestu,5
+czterdzieúci,10
+czterech,1
+czternastego,1
+czternaúcie,1
+czternaúcioro,1
+cztery,3
+czterysta,6
+czterystu,2
+czuje,3
+czujπ,2
+czujÍ,1
+czule,1
+czuli,1
+czu≥,2
+czuÊ,1
+czwarte,1
+czwartego,2
+czwarty,1
+czy,20
+czyhajπcy,1
+czyha≥,1
+czyim,1
+czyje,1
+czyjπ,1
+czyli,12
+czym,18
+czymøe,2
+czynili,1
+czyniono,1
+czynisz,1
+czyni≥,1
+czyni≥em,1
+czyni≥eú,1
+czyniÊ,3
+czynu,2
+czystych,5
+czystymi,1
+czyø,1
+czyøbyú,1
+czyÒ,2
+czyÒcie,1
+cz≥owiek,10
+cz≥owieka,20
+cz≥owiekiem,4
+cz≥owiekowi,2
+cz≥owieku,1
+czÍúci,5
+czÍúciπ,1
+czÍúÊ,10
+cÍtki,9
+cÍtkowane,1
+cÛrce,4
+cÛrek,23
+cÛrka,12
+cÛrkami,2
+cÛrki,22
+cÛrkπ,8
+cÛrkÍ,18
+cÛø,6
+da,5
+dach,1
+dachem,1
+dadzπ,2
+daj,2
+dajmy,1
+dajπc,2
+dajπce,1
+dajÍ,5
+dalej,16
+daleka,1
+daleko,2
+dalekoúÊ,1
+dali,2
+dalszej,1
+dalszymi,1
+dalszπ,5
+dam,9
+damy,1
+dane,4
+dania,1
+dano,4
+dar,6
+darem,1
+darmo,3
+darowa≥em,1
+darowaÊ,1
+daruje,1
+dary,2
+darze,2
+darzy,2
+darzy≥,9
+dasz,3
+dawa≥,2
+dawaÊ,1
+dawna,1
+dawni,1
+dawno,2
+dawny,3
+dawnym,1
+da≥,20
+da≥a,7
+da≥am,2
+da≥em,2
+da≥eú,1
+daÊ,9
+deszcz,1
+deszczu,1
+dla,95
+dlaczego,1
+dlatego,18
+dni,28
+dnia,44
+dniach,6
+dniami,1
+dnie,1
+dniem,1
+dniu,4
+do,543
+dobieg≥,2
+dobijajπ,1
+dobra,4
+dobra≥,1
+dobre,4
+dobro,4
+dobrobycie,2
+dobrobytu,2
+dobroci,1
+dobrodziejstwo,2
+dobrze,20
+dobytek,11
+dobytkiem,8
+dochodzπ,1
+doczekaÊ,1
+dodali,1
+dodawaÊ,1
+doda≥,11
+doda≥a,3
+dodaÊ,1
+dojdzie,1
+dojne,1
+dojnych,1
+dojrza≥ych,1
+dojúÊ,1
+dokonam,2
+dokonane,1
+dokona≥,2
+dokona≥eú,1
+dokona≥o,1
+doko≥a,1
+dokucza≥,1
+dok≥adnie,5
+dok≥adniej,1
+dokπd,2
+dokπdkolwiek,2
+dole,1
+dolinie,4
+doliny,1
+dolinÍ,1
+dom,7
+domach,2
+domagaÊ,2
+domem,1
+domostwach,1
+domowe,1
+domownicy,5
+domownikom,1
+domownikÛw,6
+domowych,1
+domowym,1
+domu,61
+domy,1
+doniesiono,4
+donieúli,1
+donieúÊ,1
+doniosÍ,1
+doniÛs≥,1
+donosi≥,1
+dopad≥a,1
+dope≥ni,1
+dope≥nij,1
+dopiero,3
+doprowadza≥,1
+doprowadzi≥,1
+doprowadziÊ,3
+dopuszczajcie,1
+dopuszczajmy,1
+dopuszczali,2
+dopuszczono,1
+dopuúci,1
+dopuúcili,2
+dopuúcisz,2
+dopuúci≥,2
+dopuúci≥em,1
+dopuúci≥eú,1
+dopuúciÊ,3
+dopÍdzisz,1
+dopÍdzi≥,1
+dopÛki,8
+dorobi≥,3
+dorobiÊ,2
+dorodne,5
+dorodniejsze,1
+dorodnych,3
+doros≥ego,1
+doroúnie,1
+dorzuca,1
+dorÛs≥,1
+dorÛwnaÊ,1
+dorÛwnujπ,1
+dosiÍgnÍ≥aby,1
+dostanie,1
+dostarcza≥,1
+dostarczy,1
+dostarczπ,1
+dostatkiem,2
+dostawa≥y,1
+dosta≥am,1
+dostrzegli,1
+dostπpiπ,1
+dostÍpu,1
+dosyÊ,1
+doszczÍtnie,2
+doszed≥,2
+doszli,2
+dosz≥o,2
+dotarli,4
+dotar≥,7
+dotar≥y,2
+dotkliwa,1
+dotkliwe,1
+dotkliwego,1
+dotkliwszy,1
+dotkliwy,1
+dotknie,1
+dotknπwszy,1
+dotknπÊ,1
+dotrÍ,1
+dotychczas,1
+dotyczy,1
+dotykaÊ,1
+dotπd,3
+dowiadujÍ,1
+dowiedziawszy,1
+dowiedzia≥,4
+dowiedzieli,2
+dowiedzieliúmy,1
+dowiedzieÊ,2
+dowodem,1
+dowÛd,1
+dowÛdca,2
+dowÛdcy,1
+dowÛdcπ,1
+doznajÍ,1
+doznawa≥eú,1
+doznaÊ,2
+doúÊ,1
+do≥Ûw,1
+doøywa≥,1
+doøywszy,1
+doøy≥,1
+doøy≥a,1
+drabinie,1
+drabiny,1
+drabinÍ,1
+drapieøne,1
+drapieønik,1
+drapieøny,1
+draøniÊ,1
+drew,1
+drewna,1
+drodze,11
+drogami,2
+drogi,7
+drogπ,2
+drogÍ,45
+druga,2
+drugi,8
+drugich,1
+drugie,3
+drugiego,9
+drugiej,5
+drugiemu,1
+drugim,3
+drugπ,2
+drwa,3
+drwach,1
+drwiÍ,1
+drzew,3
+drzewa,17
+drzewami,3
+drzewem,1
+drzewie,1
+drzewo,4
+drzwi,4
+drøa≥,3
+drøπ,1
+drÍczy,1
+duch,1
+ducha,1
+duchu,1
+dumπ,1
+duøe,2
+duøo,3
+dwa,19
+dwadzieúcia,8
+dwaj,5
+dwanaúcie,2
+dwie,6
+dwiema,1
+dwieúcie,6
+dworski,1
+dworskiej,3
+dworu,2
+dworzan,2
+dworzanie,1
+dworzanom,1
+dworze,2
+dwu,3
+dwudziestego,1
+dwudziestu,2
+dwunastu,6
+dwÛch,5
+dwÛr,2
+dym,1
+dzban,5
+dzbana,3
+dzbanem,2
+dzia≥ania,1
+dzieci,28
+dziecka,5
+dzieckiem,1
+dziecko,5
+dziedzicem,2
+dziedzictwa,1
+dzieje,6
+dzieli≥,1
+dzielnych,1
+dzielπ,2
+dzienne,1
+dziesiπtego,2
+dziesiπtek,1
+dziesiπtπ,2
+dziesiÍciu,5
+dziesiÍÊ,11
+dziewczyna,2
+dziewczyny,1
+dziewczynπ,1
+dziewczynÍ,3
+dziewczÍta,1
+dziewczÍtami,1
+dziewicπ,1
+dziewiÍtnaúcie,1
+dziewiÍÊ,5
+dziewiÍÊdziesiπt,6
+dziewiÍÊset,7
+dzie≥a,1
+dzie≥o,1
+dzieÊmi,6
+dzieÒ,11
+dzikich,2
+dzikie,7
+dziko,1
+dziobie,1
+dzisiaj,3
+dzisiejszego,1
+dzisiejszy,5
+dzisiejszym,1
+dziú,13
+dziÍki,2
+düwigajπcych,1
+d≥onie,1
+d≥uga,1
+d≥ugie,1
+d≥ugimi,3
+d≥ugo,6
+d≥ugotrwa≥ego,1
+d≥ugoúci,1
+d≥uøej,2
+d≥uøszy,2
+dÍbami,1
+dÍbem,2
+dÍbÛw,2
+dÛbr,1
+edomickich,1
+egipska,3
+egipski,1
+egipskiego,2
+egipskiej,2
+egipskπ,2
+faraon,31
+faraona,38
+faraonem,3
+faraonie,1
+faraonowi,14
+figowe,1
+filistyÒskiego,1
+flecie,1
+gatunki,3
+gatunkiem,1
+gatunku,6
+gatunkÛw,1
+ga≥πzek,3
+ga≥πzki,3
+ga≥πzkÍ,1
+ga≥Íziach,1
+ga≥Ízie,2
+gdy,48
+gdyby,3
+gdybyúcie,1
+gdyø,16
+gdzie,28
+gdziekolwiek,1
+ginπÊ,1
+gliny,4
+gniew,1
+gniewaj,1
+gniewaÊ,2
+gniewem,2
+gniewie,2
+gniewu,1
+go,108
+godzi,1
+godzien,1
+godziwπ,1
+gorzej,1
+gorπca,1
+gorπce,1
+gospodzie,1
+gotowy,1
+gotujπcy,1
+gotÛw,4
+go≥Íbica,2
+go≥ÍbicÍ,5
+grajπ,1
+granic,2
+granicami,1
+granicy,1
+grobach,1
+grobami,1
+grobie,2
+grobowca,1
+grobu,3
+grobÛw,1
+grocie,4
+gromadzili,1
+gromadzi≥,1
+gromadziÊ,2
+gromadzono,2
+grona,2
+grota,1
+grotπ,1
+grotÍ,2
+grzebaÊ,1
+grzech,1
+grzechu,1
+grzeszπc,1
+grÛb,3
+gwa≥townoúÊ,1
+gwa≥towny,1
+gwa≥tu,1
+gwiazd,1
+gwiazdy,5
+g≥adka,1
+g≥odowej,2
+g≥odowπ,1
+g≥odu,12
+g≥os,1
+g≥osem,1
+g≥osu,1
+g≥owie,6
+g≥owniÍ,1
+g≥owy,1
+g≥owπ,4
+g≥owÍ,6
+g≥oúno,8
+g≥oúnym,1
+g≥Íbi,1
+g≥Íboki,3
+g≥Íbokich,1
+g≥Íboko,3
+g≥Ûd,9
+g≥Ûwnego,4
+g≥Ûwnie,1
+g≥Ûwny,3
+gÍstej,1
+gÍsty,1
+gÛr,2
+gÛrach,2
+gÛrne,1
+gÛrnym,1
+gÛrowa≥,1
+gÛry,5
+gÛrze,8
+gÛrzyste,1
+gÛrzystym,1
+harf,1
+haÒba,1
+historia,1
+historiÍ,1
+hodowcami,1
+i,1058
+ich,105
+idzie,3
+idziesz,2
+idü,5
+ile,7
+ilekroÊ,1
+iloúci,1
+iloúciπ,1
+iloúÊ,2
+im,42
+imienia,4
+imieniem,8
+imion,4
+imiona,2
+imiÍ,39
+inaczej,4
+indziej,1
+inne,4
+innego,6
+innej,1
+innemu,1
+inni,3
+inny,2
+innych,8
+innym,2
+innymi,1
+ironicznie,1
+istnia≥a,1
+istnia≥o,1
+istnieje,1
+istniejπcym,1
+istot,4
+istota,3
+istotami,2
+istoty,10
+istotπ,6
+istotÍ,1
+izmaelickich,1
+izraelskich,2
+izraelskiego,1
+iúÊ,2
+iø,6
+ja,34
+jadajπ,1
+jadalni,2
+jadowita,1
+jad≥,1
+jad≥eú,1
+jagniπt,1
+jagody,1
+jagÛd,2
+jak,100
+jaka,2
+jakaú,1
+jakby,8
+jaki,1
+jakich,1
+jakie,12
+jakiegoú,2
+jakiej,1
+jakieú,6
+jakimú,6
+jakiú,7
+jako,32
+jakoú,2
+jakπ,4
+jarzma,1
+jaskini,1
+jaskiniπ,1
+jasnowidzenia,1
+ja≥owicÍ,1
+je,26
+jeden,17
+jedenaúcie,1
+jedenaúcioro,1
+jedli,2
+jednak,20
+jednakøe,1
+jedne,1
+jednego,14
+jednej,9
+jednemu,2
+jedni,1
+jedno,8
+jednym,3
+jednπ,9
+jedynego,3
+jedynie,3
+jedzenia,4
+jedzenie,1
+jego,158
+jej,38
+jest,81
+jestem,27
+jesteú,22
+jesteúcie,9
+jesteúmy,3
+jeszcze,105
+jeúli,13
+jeúÊ,3
+jeüdziec,1
+jeüdücy,1
+jeøeli,3
+juczne,1
+juø,142
+jπ,44
+jÍzyk,2
+jÍzyki,4
+jÍzykiem,1
+jÍzyku,1
+kamieni,4
+kamienia,1
+kamienie,1
+kamieniem,1
+kamiennym,1
+kamieÒ,12
+kananejskich,3
+kananejskie,3
+kananejskiej,1
+kana≥ami,1
+kap≥ana,2
+kap≥anem,2
+kap≥ani,1
+kap≥anÛw,2
+kara,1
+karawana,1
+karawanÍ,1
+kara≥,1
+kark,1
+karmiony,1
+karmi≥,1
+karmiÊ,1
+kary,3
+kaza≥,25
+kaza≥a,2
+kaza≥eú,2
+kaø,1
+kaøda,1
+kaøde,1
+kaødego,9
+kaødemu,4
+kaødy,9
+kaødym,1
+kaødπ,1
+kaøe,3
+kesitÛw,1
+kiedy,53
+kiedykolwiek,1
+kiedyú,8
+kierunku,6
+kilka,1
+kilku,2
+kim,2
+klÍczeli,1
+klÍska,4
+klÍski,5
+klÍskπ,1
+klÍskÍ,2
+knowaÒ,1
+kobieca,1
+kobiet,2
+kobieta,5
+kobietami,1
+kobietom,1
+kobiety,10
+kobietπ,2
+kobietÍ,2
+kocha,1
+kocha≥,3
+kocha≥a,1
+kogo,3
+kogoú,2
+kolan,1
+kolana,1
+kolanach,2
+kolczyk,3
+kolczyki,1
+kolei,1
+kolejne,2
+kolejnoúci,1
+kolejnych,1
+komnacie,1
+komu,1
+konaÊ,1
+konia,1
+konie,1
+koniec,1
+kopca,1
+kopiec,4
+kory,2
+koryt,3
+koryta,1
+korzeni,1
+korzeniami,1
+korzystali,1
+korzyúÊ,1
+korÍ,1
+kosza,1
+kosze,2
+kosztem,1
+kosztownoúci,2
+koszu,1
+kowala,1
+kozom,1
+kozy,3
+koz≥a,1
+koz≥Ûw,2
+kozÍ,1
+koúci,2
+koúciach,1
+koúciπ,2
+koúÊ,1
+koülπt,2
+koülπtka,1
+koülπtko,3
+koülÍta,1
+ko≥czan,1
+ko≥o,6
+koÒca,4
+koÒcem,1
+koÒcu,17
+kradnπc,1
+krain,1
+kraina,2
+krainie,6
+krainy,13
+krainÍ,2
+kraj,24
+kraje,1
+krajem,1
+kraju,53
+kraúÊ,1
+kraÒca,1
+kraÒce,1
+kraÒcu,1
+kresu,1
+krew,3
+krewnego,2
+krewnych,2
+krewnym,2
+kroczyli,1
+kroczy≥,1
+krok,1
+kroki,2
+krowy,3
+kruk,1
+kruka,1
+krwi,6
+krwiπ,1
+kryjomu,1
+krzew,1
+krzewem,1
+krzewie,1
+krzyczeÊ,1
+krzyczπc,1
+krzyk,1
+krzywd,1
+krzywdami,1
+krzywdy,2
+krzywdzie,1
+krzyøujπc,1
+krÛl,6
+krÛla,8
+krÛlami,2
+krÛlem,5
+krÛlestwo,1
+krÛlewscy,1
+krÛlewski,1
+krÛlewskie,1
+krÛlowi,1
+krÛlowie,6
+krÛlÛw,2
+krÛtkich,1
+krÛw,9
+ksiÍøyc,1
+kszta≥t,2
+kto,10
+ktokolwiek,1
+ktoú,3
+ktÛra,24
+ktÛre,62
+ktÛrego,28
+ktÛrej,12
+ktÛrejú,2
+ktÛremu,11
+ktÛry,68
+ktÛrych,14
+ktÛrym,28
+ktÛrymi,4
+ktÛryú,1
+ktÛrzy,31
+ktÛrπ,24
+ktÛø,1
+ku,8
+kupcie,2
+kupcy,1
+kupcÛw,1
+kupione,1
+kupionym,1
+kupi≥,1
+kupiÊ,8
+kwiaty,1
+k≥adziono,1
+k≥ad≥a,2
+k≥aniaÊ,2
+k≥opot,1
+k≥opotÛw,1
+k≥osy,1
+k≥osÛw,7
+k≥Ûtnia,1
+k≥ÛÊcie,1
+kπsa,1
+kÛz,7
+lada,1
+laska,1
+laski,1
+laskπ,1
+laskÍ,1
+lat,89
+lata,14
+latach,2
+latajπce,2
+lataÊ,1
+lato,1
+latoroúl,1
+latoroúli,1
+lecz,9
+lekarzom,1
+lekcewaøyÊ,1
+lepiej,1
+lesie,1
+lew,1
+lewej,2
+lewo,2
+lewπ,1
+leøa≥o,1
+leøa≥y,2
+leøy,1
+leøπcego,1
+leøπcej,2
+liczbie,1
+liczby,1
+liczbπ,1
+liczne,8
+liczni,4
+licznych,2
+licznym,3
+liczπc,1
+lista,5
+litoúÊ,2
+lochu,1
+los,1
+lub,7
+lubi,1
+lubi≥,1
+lud,1
+ludem,1
+ludowi,1
+ludu,1
+ludy,5
+ludzi,22
+ludzie,11
+ludziom,5
+ludzka,1
+ludzkich,1
+ludzkie,1
+ludzkim,1
+ludzkoúci,1
+ludümi,13
+lwica,1
+lwie,1
+lπdzie,1
+lÍk,2
+lÍkaj,3
+lÍkasz,1
+ma,22
+macie,3
+madianiccy,1
+majπ,4
+majπc,6
+majπce,1
+majπcy,1
+majπtek,1
+majπtku,3
+majÍtnoúci,1
+majÍtnoúÊ,5
+malutkie,1
+mam,9
+mamy,6
+mandragor,2
+mandragorami,1
+mandragory,2
+marnie,1
+martwcie,1
+martwiÊ,1
+masz,7
+mas≥o,1
+matce,5
+materia≥,1
+matka,4
+matki,12
+matkπ,5
+matkÍ,1
+mawia≥,1
+ma≥a,1
+ma≥e,2
+ma≥ego,2
+mego,9
+metali,1
+mi,126
+miano,1
+mianowicie,2
+miara,1
+miary,1
+miarÍ,2
+miast,4
+miasta,22
+miastach,1
+miastem,1
+miasto,16
+mia≥,62
+mia≥a,12
+mia≥abym,2
+mia≥by,1
+mia≥bym,2
+mia≥byú,2
+mia≥em,5
+mia≥y,9
+miecza,2
+mieczami,1
+miecze,2
+miedzi,1
+miej,1
+miejsca,15
+miejsce,14
+miejscowoúci,7
+miejscowoúÊ,2
+miejscu,13
+miejskiej,1
+mieli,11
+mieliúcie,1
+mieliúmy,1
+mienia,1
+mienie,1
+mierzπ,1
+miesiπc,2
+miesiπca,6
+miesiπcach,1
+miesiπcu,2
+mieszka,1
+mieszkajπ,1
+mieszkajπce,1
+mieszkajπcego,1
+mieszkajπcy,1
+mieszkajπcych,2
+mieszkajπcym,1
+mieszkali,1
+mieszkam,2
+mieszkankÍ,1
+mieszka≥,7
+mieszka≥by,1
+mieszkaÊ,1
+mieszkaÒcem,1
+mieszkaÒcom,1
+mieszkaÒcy,8
+mieszkaÒcÛw,7
+miewa≥a,1
+miewaÊ,1
+mieúcie,7
+mieÊ,2
+migda≥owego,1
+migda≥Ûw,1
+mimo,4
+minÍ≥y,1
+miodu,1
+mi≥e,1
+mi≥ej,1
+mi≥osierdzie,1
+mi≥owa≥,3
+mi≥oúci,1
+mi≥oúciπ,2
+mi≥oúÊ,1
+mi≥uje,1
+mi≥π,1
+miÍdzy,23
+miÍsa,2
+mleko,2
+mnie,126
+mniejsze,1
+mnπ,15
+mnÛstwo,3
+mnÛstwu,1
+moc,1
+mocarze,1
+mocne,1
+mocno,3
+mocy,2
+mocπ,2
+modli≥,2
+modliÊ,1
+mogli,12
+mogliby,1
+mogliúmy,2
+mog≥a,5
+mog≥aby,1
+mog≥em,1
+mog≥eú,1
+mog≥oby,1
+mog≥y,1
+mog≥yby,2
+mogπ,1
+mogπc,1
+mogÍ,9
+moi,3
+moich,21
+moim,19
+moimi,5
+moja,6
+moje,25
+mojego,55
+mojej,9
+mojemu,11
+mojπ,13
+momencie,5
+morderstwa,1
+mordowali,1
+morskie,2
+morza,3
+morzem,1
+morzu,1
+moszczu,2
+mowy,1
+mozoli≥,1
+moøe,22
+moøemy,6
+moøesz,6
+moøliwe,1
+moøna,5
+mroki,1
+mu,140
+murze,1
+musi,3
+musia≥,3
+musia≥a,2
+musia≥y,1
+musicie,1
+musieli,4
+musisz,1
+muszÍ,2
+muzyki,1
+my,7
+myúla≥,2
+myúla≥a,1
+myúli,2
+myúliwskie,1
+myúliwy,1
+myúliwym,1
+myúlπ,1
+myúmy,2
+múciwy,1
+m≥odego,1
+m≥odoúci,2
+m≥odsza,2
+m≥odszego,2
+m≥odszej,2
+m≥odszy,2
+m≥odszπ,2
+m≥ody,1
+m≥odych,2
+m≥odymi,1
+m≥odzi,2
+m≥odzieÒcÛw,1
+mπdrego,1
+mπdroúciπ,1
+mπdry,1
+mπki,1
+mπø,5
+mÍdrcÛw,1
+mÍskiej,4
+mÍøa,4
+mÍøczyzn,3
+mÍøczyzna,12
+mÍøczyzny,10
+mÍøczyznπ,3
+mÍøczyznÍ,2
+mÍøczyüni,4
+mÍøczyünie,1
+mÍøczyünigiganci,1
+mÍøowi,1
+mÍøowie,2
+mÛc,1
+mÛg≥,21
+mÛg≥by,1
+mÛg≥bym,4
+mÛj,53
+mÛwi,2
+mÛwicie,1
+mÛwili,6
+mÛwiliúcie,1
+mÛwiono,1
+mÛwisz,3
+mÛwi≥,14
+mÛwi≥a,2
+mÛwi≥em,3
+mÛwi≥eú,1
+mÛwiπc,21
+mÛwiÊ,10
+na,501
+nabi≥o,1
+nabraÊ,1
+nabyci,2
+nabytych,2
+nabywali,1
+nabywaÊ,1
+nabywszy,1
+naby≥,1
+naby≥em,1
+nabyÊ,1
+naczelnicy,1
+naczelnik,2
+naczelnika,2
+nad,28
+nadaje,1
+nadal,9
+nadano,4
+nadasz,2
+nada≥,13
+nada≥a,12
+nadciπga,1
+nadciπgajπce,1
+nadciπgajπcych,1
+nadciπgnπ≥,2
+nadciπgnÍli,1
+nadejdπ,1
+nadesz≥a,2
+nadmiar,1
+nadmorski,1
+nadszed≥,4
+nadto,1
+nadworny,1
+nadziemskiej,1
+nadzy,2
+nadπøyÊ,1
+nagi,4
+nagiego,2
+nagle,3
+nagoúÊ,1
+nagroda,1
+najad≥,1
+najbardziej,6
+najbliøszej,1
+najbliøszych,1
+najcenniejsze,3
+najedli,1
+najeúÊ,1
+najgodniejszego,1
+najgorsze,1
+najlepiej,1
+najlepsze,2
+najlepszej,2
+najlepszych,1
+najmniej,1
+najmniejszym,1
+najm≥odszego,5
+najm≥odszy,5
+najm≥odszym,2
+najniøszy,1
+najpierw,6
+najprzedniejszych,1
+najrozmaitsze,1
+najstarszego,2
+najstarszych,1
+najs≥abiej,1
+najwiÍkszej,1
+najwspanialszego,1
+najwyøej,1
+najwyøsze,1
+najøyüniejszej,1
+nakarmiÊ,1
+nakaza≥,6
+nakryta,1
+nakrywajπcy,1
+nak≥ania≥a,1
+nalega≥,1
+naleøa≥,1
+naleøa≥o,1
+naleøeÊ,6
+naleøny,1
+naleøy,8
+naleøπ,1
+naleøπca,1
+naleøπcej,1
+naleøÍ,1
+nam,24
+namawiaÊ,1
+nami,7
+namiocie,3
+namiot,4
+namiotach,1
+namiotami,2
+namiotu,6
+namioty,5
+namiotÛw,1
+nanios≥a,1
+napaúci,1
+nape≥niajcie,1
+nape≥niajπc,1
+nape≥niajπcymi,1
+nape≥niono,1
+nape≥niony,1
+nape≥ni≥a,3
+nape≥niπ,1
+nape≥niÊ,1
+napij,3
+napili,1
+napi≥,2
+napi≥em,1
+napi≥y,2
+napiÊ,5
+napiÍty,1
+napletka,2
+napoi≥,1
+napojami,1
+napojÍ,2
+napotka,1
+naprawdÍ,6
+naprzeciw,7
+naprzÛd,1
+narazili,1
+narazi≥bym,1
+narobiliúcie,1
+narobimy,1
+narodom,2
+narodowi,2
+narodu,7
+narody,9
+narodzi,1
+narodzili,1
+narodzi≥,1
+narodzonemu,1
+narodzonych,2
+narodÛw,7
+narzÍdzia,1
+narzÍdziami,1
+narπba≥,1
+narÛd,3
+nas,34
+nasi,4
+nasiona,3
+nasionami,2
+nastanie,1
+nastaniem,1
+nastawa≥,2
+nasta≥,1
+nastroju,1
+nastÍpna,1
+nastÍpne,2
+nastÍpnie,2
+nastÍpnym,1
+nastÍpujπce,4
+nastÍpujπcπ,1
+nasycony,1
+nasz,12
+nasza,4
+nasze,12
+naszego,17
+naszej,2
+naszemu,3
+naszych,7
+naszym,7
+naszymi,2
+naszπ,6
+natomiast,5
+natrafili,1
+natrÍtny,1
+natychmiast,3
+nawadniajπca,1
+nawet,17
+nawiedzi,1
+nawiedzi≥a,2
+nawiπzaÊ,1
+nawodniÊ,1
+nazbiera≥,1
+naziemnych,1
+nazw,1
+nazwana,1
+nazwane,1
+nazwano,5
+nazwanych,1
+nazwa≥,8
+nazwa≥a,3
+nazwie,1
+nazwy,2
+nazwÍ,12
+nazywa,6
+nazywajπc,1
+nazywali,1
+nazywam,1
+nazywano,1
+nazywasz,2
+nazywa≥,8
+nazywa≥a,5
+nazywaÊ,3
+na≥oønic,1
+na≥oønicÍ,1
+naÒ,2
+nic,16
+nich,63
+niczego,6
+niczym,6
+nie,277
+nieba,15
+niebawem,2
+niebem,2
+niebezpieczeÒstwo,1
+niebie,3
+niebieskiej,2
+niebieskim,1
+niebios,3
+niebo,1
+niech,39
+nieco,9
+nieczystych,2
+niedaleko,7
+niedawno,1
+nieduøe,1
+niego,51
+niegodziwie,2
+niegodziwoúci,1
+niej,25
+niejakiego,1
+niejakπ,1
+niemoøliwe,1
+nienagannoúciπ,1
+nienawidzili,1
+nienawiúciπ,2
+nieobecny,1
+niepamiÍÊ,1
+niepokojem,1
+niepokÛj,1
+nieprawoúci,2
+nieprzyjaciÛ≥,2
+nieprzyjaüÒ,1
+nierozsπdnie,1
+nierozumnie,1
+nierzπd,1
+nierzπdnica,2
+nierzπdnicy,2
+nierzπdnicÍ,1
+niesprawiedliwoúci,3
+niesprawiedliwy,1
+nieswojo,1
+nieszczÍúcie,3
+nieszczÍúÊ,2
+nieuchronnie,1
+niewiasta,6
+niewiasty,5
+niewiastπ,1
+niewiastÍ,6
+niewiele,1
+niewinnych,1
+niewolnic,4
+niewolnica,5
+niewolnice,4
+niewolnico,1
+niewolnicy,7
+niewolnicÍ,14
+niewolnik,3
+niewolnikami,5
+niewolnikiem,2
+niewolnikÛw,5
+niewzruszone,1
+niezgody,1
+nieznajomy,1
+nieznane,1
+niezupe≥nie,1
+niezwyk≥a,1
+niezwyk≥e,1
+niezw≥ocznie,1
+nieúmia≥y,1
+nigdy,8
+nigdzie,2
+nikogo,5
+nikt,11
+nim,47
+nimi,14
+niosπc,1
+niosπcego,1
+nisko,2
+niszczyÊ,1
+nitki,1
+nizinom,1
+niπ,16
+niø,7
+noc,7
+noce,1
+nocleg,2
+nocnego,1
+nocy,12
+nocπ,3
+nogi,3
+nogπ,1
+nogÍ,1
+nosi,1
+nosiÊ,1
+nowe,1
+nozdrza,4
+nozdrzach,1
+nÍdznie,3
+nÍdzÍ,1
+nÍka,2
+nÍkajπ,1
+nÍka≥,1
+nÍka≥a,1
+nÛg,2
+nÛø,2
+o,90
+obaj,6
+obchodzili,1
+obcowa≥a,1
+obcy,1
+obcych,5
+obdarowa≥,1
+obdarza≥,1
+obdarzonπ,3
+obdarzysz,2
+obdarzy≥,3
+obdarzyÊ,2
+obdarzÍ,1
+obecnie,4
+obecnoúci,5
+obecnych,1
+obecnym,1
+obejmiesz,1
+obejrza≥,1
+obficie,1
+obfite,2
+obfitoúciπ,1
+obfitoúÊ,1
+obfitujπ,1
+obfitujπcπ,1
+obie,5
+obiecany,1
+obiecujÍ,1
+obiegu,1
+obietnice,1
+objawi≥,1
+objπ≥,1
+objÍcia,1
+obliczaÊ,1
+oblicze,3
+obliczem,2
+obliczu,1
+obmycia,1
+obmyjcie,2
+obmyÊ,1
+obojgu,1
+obok,9
+obowiπzku,1
+obowiπzujπce,1
+obozowisku,1
+obozy,2
+obraca≥,1
+obraz,1
+obroku,2
+obronÍ,1
+obroÒcπ,1
+obruszy≥,1
+obrzezana,1
+obrzezane,1
+obrzezanego,1
+obrzezani,3
+obrzezaniu,4
+obrzezany,1
+obrzeza≥,1
+obrzezaÊ,1
+obrzydnie,1
+obrzÍd,1
+obrzÍdzie,1
+obrÛci≥,1
+obrÛcÍ,1
+obsia≥,1
+obsiewajcie,1
+obszarÛw,1
+obwieüÊ,1
+obwiπza≥a,1
+obydwa,1
+obydwie,1
+obydwiema,1
+obydwu,5
+obyú,1
+ob≥adowane,1
+ob≥adowanych,1
+ob≥okach,2
+ob≥oki,1
+ob≥upione,1
+obÛz,1
+ocala≥,1
+ocala≥y,1
+ocalenia,1
+ocali≥em,1
+ocaliÊ,3
+och≥onie,1
+ociπga≥,1
+oczach,9
+oczu,2
+oczy,18
+oczyma,1
+oczyszczaniu,1
+oczyúciÊ,1
+od,89
+odbi≥,1
+odbywam,1
+odchodzπc,2
+odczuwali,1
+odczuÊ,1
+oddacie,1
+oddaje,1
+oddajemy,1
+oddajπ,1
+oddajÍ,1
+oddali,1
+oddaliwszy,1
+oddali≥,2
+oddaliÊ,1
+oddam,1
+oddawa≥em,1
+odda≥,2
+odda≥a,1
+oddaÊ,2
+oddzia≥y,1
+oddzia≥Ûw,1
+oddzielajπc,1
+oddziela≥y,1
+oddzieli≥,4
+oddzieli≥eú,1
+oddzieli≥y,1
+oddzielne,1
+oddzielnie,3
+ode,7
+odejdzie,1
+odejdziesz,1
+odejdπ,1
+odejúÊ,5
+odeszli,1
+odesz≥a,1
+odezwa≥,7
+odezwa≥a,1
+odeúlij,1
+odjecha≥byú,1
+odjecha≥eú,1
+odjπ≥,1
+odkπd,1
+odleg≥oúÊ,2
+odmawiam,1
+odmÛwiÊ,1
+odnios≥eú,1
+odparcia,1
+odpar≥,1
+odpoczynku,1
+odpoczywasz,1
+odpoczywa≥,1
+odpowiada≥,2
+odpowiada≥em,1
+odpowiadaÊ,1
+odpowie,2
+odpowiedz,1
+odpowiedzi,1
+odpowiedzialnoúÊ,1
+odpowiedzia≥,49
+odpowiedzia≥a,9
+odpowiedzieli,14
+odpowiedü,2
+odprawili,1
+odprawi≥byú,1
+odprowadziÊ,2
+odp≥aciliúcie,1
+odp≥aciÊ,1
+odpÍdza≥,1
+odrazÍ,1
+odrzekli,2
+odrzekliúmy,1
+odrzek≥,3
+odrzucona,2
+odrÍbne,1
+odstπpi≥,1
+odstπpi≥am,1
+odstÍpach,1
+odsunπ≥,1
+odsunπÊ,1
+odszed≥,6
+odtπd,5
+odwaøy,1
+odwaøy≥,3
+odwiecznych,1
+odwrÛcili,1
+odzienie,2
+odúwiÍtne,1
+od≥ogiem,1
+od≥πczone,1
+od≥πczyli,1
+od≥πczy≥,3
+od≥πczyÊ,1
+odøywionych,3
+ofiar,1
+ofiarnego,1
+ofiarny,2
+ofiarowa≥,1
+ofiary,3
+ofiarÍ,10
+ofierze,5
+ogarnπ≥,3
+ogarnÍ≥o,3
+ogarnÍ≥y,1
+ogieÒ,1
+oglπda≥,1
+oglπdaÊ,2
+ognia,1
+ognistego,1
+ogniu,1
+ogrodu,5
+ogrodzie,5
+ogromne,1
+ogromnego,1
+ogrÛd,4
+og≥osi≥,1
+ogÛle,1
+ojca,101
+ojcem,39
+ojciec,44
+ojcowie,3
+ojcu,14
+ojcze,2
+ojczystego,4
+ojczystej,2
+ojczystym,1
+ojczyzny,2
+ojcÛw,6
+oka,1
+okazaliúcie,1
+okaza≥,2
+okaza≥a,1
+okaza≥eú,1
+okaza≥o,5
+okazaÊ,5
+okazji,1
+okazujesz,1
+okazywa≥,2
+okazywaÊ,2
+okaøe,5
+okaøesz,1
+okien,1
+okno,1
+okolic,4
+okolica,1
+okolicach,3
+okolice,5
+okolicy,6
+okoliczne,1
+okolicznych,2
+okolicÍ,1
+oko≥o,2
+okres,2
+okreúla≥y,1
+okreúlonym,1
+okrucieÒstwa,1
+okryli,1
+okry≥,1
+okrπg≥e,1
+okrπøa≥,2
+okrÍty,1
+olejkÛw,1
+oliwki,1
+oliwÍ,2
+omieszka≥,1
+omijaÊ,1
+ominie,1
+on,86
+ona,29
+one,7
+ongiú,1
+oni,35
+ono,3
+opada≥,1
+opad≥y,2
+opanowa≥,1
+opanowaÊ,2
+opanujπ,1
+opartπ,1
+opiece,2
+opiekowa≥,1
+opiekπ,1
+opowiadaliúcie,2
+opowiadaÊ,1
+opowiedz,1
+opowiedzcie,1
+opowiedzia≥,8
+opowiedzia≥a,3
+opowiedzieli,2
+opowiedzieliúmy,1
+opowiedzieÊ,1
+opowiesz,1
+opowieúÊ,1
+oprÛcz,2
+oprÛøniaÊ,1
+opuszcza,1
+opuszczajcie,1
+opuszcza≥,1
+opuszczπ,2
+opuszczÍ,1
+opuúci≥,2
+opuúciÊ,2
+op≥aciÊ,1
+op≥akiwano,1
+op≥akiwa≥,2
+op≥akiwaÊ,1
+oraz,55
+oraÊ,1
+orzeüwiajπce,1
+orzeüwiajπcego,1
+osiad≥,5
+osiad≥a,1
+osiedli,3
+osiedlili,1
+osiedli≥,2
+osiedliÊ,3
+osiemdziesiπt,5
+osiemnastu,1
+osiemset,7
+osiod≥a≥,1
+osio≥,1
+osiπgnπ≥,1
+osiπgnπÊ,3
+osiπgnÍ≥a,1
+osiπúÊ,6
+osobistym,1
+osobiúcie,1
+ostatecznie,2
+ostatecznoúci,1
+ostatni,2
+ostatnia,1
+ostatnich,1
+ostatnie,1
+ostatnim,1
+ostrzach,1
+osty,1
+osunπ≥,1
+oswojonych,1
+oszczÍdziÊ,1
+oszczÍdzÍ,1
+oszuka≥eú,1
+oszukiwa≥,1
+oszukujπc,1
+oszust,1
+os≥a,3
+os≥ami,1
+os≥y,4
+os≥Ûw,6
+osÛb,2
+otaczajπ,1
+otacza≥,1
+otar≥,1
+otch≥ani,3
+oto,52
+otoczenia,1
+otoczyli,1
+otoczy≥y,1
+otrzymajπ,2
+otrzymasz,2
+otrzyma≥,2
+otrzyma≥a,1
+otrzyma≥am,1
+otrzymaÊ,2
+otrzymujÍ,1
+otrzπúniesz,1
+otwarcie,1
+otwieraÊ,1
+otworem,3
+otworzy≥,6
+otworzy≥y,1
+otworzy≥yby,1
+otÛø,1
+owcami,1
+owce,11
+owcom,1
+owe,4
+owego,5
+owej,1
+owemu,1
+owi,5
+owiec,23
+owinÍ≥a,1
+owo,4
+owoc,5
+owocach,2
+owoce,10
+owocem,1
+owocodajny,1
+owocujπca,1
+owocÛw,3
+owych,9
+owym,4
+ow≥osionπ,1
+owπ,4
+oznacza,1
+oznaczajπ,1
+oznaczaÊ,4
+oznajmiajπc,1
+oznaki,1
+oúle,1
+oúlic,3
+oúlπt,1
+oúmieli≥by,2
+oúmielÍ,1
+oúmiu,1
+oúwiadczy≥,3
+oúwiadczy≥a,1
+oúwieca,1
+oúwietla≥y,1
+o≥tarz,16
+o≥tarzu,1
+o≥tarzy,1
+oøywia,1
+pachnπcych,1
+padajπ,1
+padaÊ,1
+padnie,1
+pad≥,1
+pagÛrkÛw,1
+palec,1
+pamiπtkowy,2
+pamiπtkÍ,1
+pamiÍtaj,1
+pan,10
+pana,27
+panem,2
+pani,4
+panie,9
+panowali,1
+panowa≥,2
+panowaÊ,2
+panowie,1
+panu,8
+parze,5
+parzy≥y,2
+parzyÊ,2
+pasterkπ,1
+pasterskiej,1
+pasterz,1
+pasterzami,6
+pasterzem,1
+pasterzy,2
+pastwisk,1
+pastwiska,3
+pastwisku,3
+paszy,1
+pas≥,3
+pasπ,2
+pasπcego,1
+patrzeÊ,2
+patrzycie,1
+patrzy≥,1
+patrzy≥am,1
+patrzÍ,1
+paúÊ,2
+pa≥acu,1
+pa≥ali,1
+perzynÍ,2
+pewien,4
+pewna,1
+pewnego,13
+pewnej,4
+pewnemu,1
+pewno,3
+pewnoúciπ,3
+pewnych,2
+pewnym,9
+pewnπ,1
+pe≥na,2
+pe≥ne,4
+pe≥ni,1
+pe≥nia,1
+pe≥nomocnikÛw,1
+pe≥nych,1
+pe≥zajπce,2
+piasek,2
+piasku,2
+piastujÍ,1
+piastunka,1
+piastunkÍ,1
+pieca,2
+pieczarze,1
+pieczy,2
+pieczywa,1
+pieczywo,1
+pieczÍ,1
+pieczÍciπ,3
+piekarz,3
+piekarza,4
+pielgrzymowania,1
+pielgrzymowanie,1
+pielgrzymowaniu,1
+pieniπdze,17
+pieniÍdzmi,2
+pieniÍdzy,7
+piersi,2
+piersiami,1
+piersiπ,1
+pierworodnego,2
+pierworodni,1
+pierworodny,8
+pierworodnym,3
+pierworodztwa,4
+pierworodztwo,1
+pierwotni,1
+pierwsze,1
+pierwszego,6
+pierwszej,2
+pierwszemu,1
+pierwszy,7
+pierwszych,1
+pierwszym,3
+pierúcieÒ,3
+pij,1
+pije,1
+pili,2
+pilnowali,1
+pilnowa≥,2
+pistacji,1
+piπta,1
+piπtego,2
+piπtπ,2
+piÊ,3
+piÍciokrotnie,1
+piÍciu,6
+piÍkna,3
+piÍkne,3
+piÍknego,1
+piÍkny,2
+piÍknych,6
+piÍknym,1
+piÍknymi,1
+piÍknπ,3
+piÍtnaúcie,2
+piÍty,1
+piÍtÍ,2
+piÍÊ,13
+piÍÊdziesiπt,4
+piÍÊdziesiÍciu,4
+piÍÊset,3
+platanu,1
+plecami,1
+plemienia,1
+plonu,1
+plony,2
+pnπcy,1
+po,107
+pobieg≥a,1
+poblak≥y,2
+pobliøu,9
+pobrali,1
+pobytu,1
+pob≥ogos≥awisz,1
+pob≥ogos≥awi≥,6
+pob≥ogos≥awiÊ,1
+pob≥ogos≥awiÍ,1
+poca≥owa≥,1
+poca≥uj,1
+pochodni,1
+pochodzi,1
+pochodzisz,1
+pochodzπ,1
+pochodzπca,1
+pochodzπcy,1
+pochodzπcych,1
+pochowacie,1
+pochowaj,2
+pochowali,2
+pochowana,1
+pochowano,2
+pochowany,2
+pochowa≥,1
+pochowaÊ,4
+pochwyci≥,1
+pochwyciÊ,1
+pochyli≥,1
+pocie,1
+pociechπ,2
+pociesza≥,1
+pocieszyÊ,1
+poczyta≥,1
+poczπtek,9
+poczπtkiem,1
+poczπtkowo,1
+poczπtku,4
+poczπtkÛw,1
+poczÍ≥a,2
+poczÍ≥y,1
+pod,26
+podarek,3
+podarki,3
+podarowa≥,1
+podarunku,1
+podawano,1
+podawa≥,1
+podawaÊ,1
+poda≥,2
+poda≥em,1
+poda≥y,1
+podbieg≥,1
+podbieg≥a,1
+podciπgnπ≥,1
+podczas,7
+poddacie,1
+poddadzπ,2
+poddam,1
+poddana,1
+poddane,1
+poddawa≥,1
+podda≥,1
+podejdü,1
+podejmowa≥,1
+podejrzewali,1
+podeszli,1
+podesz≥ego,1
+podesz≥y,2
+podesz≥ym,3
+podnieú,1
+podnios≥a,1
+podnios≥y,1
+podniÛs≥,5
+podniÛs≥szy,1
+podnosi≥,1
+podnosi≥y,1
+podnoszono,1
+podnoú,1
+podnoúcie,1
+podnoúmy,1
+podoba,1
+podobajπ,1
+podoba≥o,1
+podoba≥y,1
+podobieÒstwo,4
+podobizny,2
+podobna,1
+podobne,1
+podobnego,1
+podobnie,3
+podobny,1
+podobnπ,1
+podp≥omyki,1
+podroúli,1
+podrÛø,1
+podrÛøy,6
+podstÍpnie,1
+podstÍpu,1
+podszed≥,4
+podszed≥szy,1
+pods≥ucha≥,1
+pods≥ucha≥a,1
+podw≥adnymi,1
+podwÛjnπ,1
+podzia≥,1
+podzia≥u,3
+podzieli≥,2
+podπøajπc,1
+pogniewaj,1
+pogodnej,1
+pogrzeb,1
+pogrzebaÊ,1
+pogrzebie,1
+pojawi,2
+pojawiajπ,1
+pojawi≥y,1
+pojawiπ,2
+pojenia,2
+pojenie,1
+pojono,1
+pojπ≥,1
+pokarm,1
+pokarmÛw,1
+pokazaÊ,1
+pokazujcie,1
+pokazywaÊ,3
+pokocha≥,2
+pokolenia,8
+pokolenie,2
+pokoleÒ,1
+pokonali,1
+pokona≥,1
+pokona≥am,1
+pokonaÊ,1
+pokryj,1
+pokryte,2
+pokryty,2
+pok≥ady,1
+pok≥on,2
+pok≥onili,3
+pok≥oni≥,1
+pok≥oni≥a,1
+pok≥oni≥y,1
+pola,15
+polach,3
+polami,1
+pole,11
+polecajπc,1
+polecenia,1
+polecenie,9
+poleceniem,5
+poleceniom,1
+poleceÒ,1
+poleciliúcie,1
+poleci≥,6
+polecono,1
+polega,1
+polem,1
+policz,1
+polne,1
+polnym,1
+polowania,1
+polu,10
+pomarli,1
+pomieszajmy,1
+pomiesza≥,1
+pomiÍdzy,2
+pomoc,3
+pomocna,1
+pomocy,3
+pomocπ,2
+pomodliÊ,1
+pomordowanych,1
+pomoøe,1
+pomrzecie,2
+pomszczony,3
+pomyúla≥,2
+pomyúla≥a,1
+pomyúleliúmy,1
+pomyúli,1
+pomyúlnie,1
+pomyúlnπ,1
+pomy≥kÍ,1
+pomÛc,1
+ponad,5
+ponadto,4
+poniesiecie,1
+poniewaø,4
+poniosÍ,1
+poniøenie,1
+ponownie,3
+pope≥ni≥em,1
+poprosi≥,1
+poproszono,1
+poprzez,2
+poprzysiπg≥,2
+poprzysiπg≥eú,1
+poprzysiÍgnij,1
+pop≥ynÍ≥a,1
+pora,2
+porachowaÊ,2
+poranek,5
+poranka,1
+porodu,2
+porodzi,5
+porodzisz,1
+porodzi≥a,2
+poronienia,1
+porozcina≥,1
+porozmawiaÊ,1
+porozumienia,1
+porusza,1
+porusza≥o,1
+poruszaÊ,2
+poruszy≥a,1
+porwa≥y,1
+pory,3
+porze,4
+porzπdku,2
+posadzi≥,1
+posiadam,1
+posiadamy,1
+posiadanie,6
+posiadaniu,1
+posiada≥,7
+posiada≥eú,1
+posiad≥oúci,1
+posiad≥oúÊ,1
+posil,1
+posilali,1
+posilicie,1
+posilili,1
+posilÍ,1
+posi≥ek,7
+posi≥ku,5
+pospieszy≥,1
+postanowienie,1
+postanowili,1
+postanowi≥,6
+postanowi≥em,1
+postanowi≥eú,1
+postaraj,1
+postawi≥,4
+postawi≥a,1
+postawi≥em,1
+postawiÊ,1
+postawiÍ,1
+postaÊ,2
+postoju,1
+postradaÊ,1
+postπpcie,1
+postπpili,1
+postÍpowania,1
+postÍpowanie,1
+postÍpowaniu,1
+postÍpowa≥,2
+postÍpujπ,1
+postÍpujπc,1
+posuwa≥,1
+poszczegÛlne,1
+poszed≥,4
+poszli,3
+poszukasz,1
+poszukaÊ,1
+poszukiwania,1
+poszukiwanie,1
+posz≥a,1
+posz≥o,1
+pos≥ali,1
+pos≥a≥,5
+pos≥a≥em,1
+pos≥aÊ,1
+pos≥uchaj,1
+pos≥uchajcie,2
+pos≥ucha≥,1
+pos≥ugiwali,1
+pos≥ugiwa≥,1
+pos≥ugujπ,1
+pos≥uszeÒstwie,1
+pos≥uszeÒstwo,1
+pos≥uszna,1
+pos≥uszny,2
+pos≥Ûw,1
+posπøki,5
+posπøkÛw,1
+potem,33
+potomka,3
+potomkami,4
+potomkiem,1
+potomkom,3
+potomkowie,10
+potomkÛw,15
+potomstwa,5
+potomstwem,4
+potomstwo,24
+potomstwu,5
+potop,1
+potopie,4
+potopu,7
+potrafi,3
+potrafisz,1
+potrafi≥,1
+potraktowana,1
+potraktowa≥,2
+potraktowaÊ,1
+potrawy,3
+potrawÍ,9
+potrzeba,1
+potrzebna,1
+potrzebne,3
+potrzebowali,1
+potwory,1
+potÍgπ,1
+potÍønego,1
+potÍøny,1
+pouczeniom,1
+powalπ,1
+powiadomiono,1
+powiadomiÊ,1
+powiedz,1
+powiedzcie,4
+powiedzenie,1
+powiedziano,1
+powiedziawszy,2
+powiedzia≥,144
+powiedzia≥a,23
+powiedzia≥em,4
+powiedzia≥eú,2
+powiedzia≥y,1
+powiedzieli,6
+powiedzieliúmy,1
+powiedzieÊ,10
+powiedzπ,1
+powiem,2
+powiemy,1
+powierzchni,3
+powierzchnia,1
+powierzone,1
+powierzy≥,3
+powierzyÊ,1
+powiesiÊ,2
+powieszono,1
+powietrzne,2
+powietrzu,10
+powinienem,1
+powinieneú,1
+powinna,1
+powinniúmy,1
+powinno,2
+powinny,1
+powk≥ada≥,1
+powodem,1
+powodu,17
+powodzi,1
+powoli,1
+powozie,1
+powpadali,1
+powrocie,2
+powrotem,12
+powrotnej,1
+powrotnπ,5
+powrotu,1
+powrÛci,2
+powrÛcili,2
+powrÛci≥,2
+powrÛci≥a,1
+powrÛt,3
+powstali,1
+powstanπ,1
+powstawszy,2
+powsta≥,1
+powstaÊ,1
+powstrzyma≥em,1
+powstrzymaÊ,1
+powszechnego,1
+powtarza,1
+powtarzam,1
+powtarza≥,1
+powtyka≥,1
+powtÛrzyli,1
+powÍdrowali,1
+powÛd,1
+powÛz,1
+poza,5
+pozbawi,1
+pozbawione,2
+pozbawiony,1
+pozbawionych,2
+pozbawi≥,1
+pozbawiÊ,4
+pozdrowi≥,1
+poziom,2
+poznali,1
+poznam,2
+poznania,2
+poznaÊ,3
+pozostajπc,1
+pozostajπce,1
+pozostali,2
+pozostania,1
+pozostanie,7
+pozostaniemy,1
+pozostaniesz,1
+pozostanπ,2
+pozostanÍ,1
+pozostawali,1
+pozostawa≥,3
+pozostawaÊ,1
+pozostawiony,1
+pozostawi≥,3
+pozosta≥,9
+pozosta≥e,1
+pozosta≥o,1
+pozosta≥ych,2
+pozosta≥ym,2
+pozosta≥ymi,1
+pozostaÊ,4
+pozostaÒ,1
+pozwala,1
+pozwala≥,1
+pozwoli,1
+pozwoliliúmy,1
+pozwoli≥,6
+pozwoli≥em,1
+pozwoli≥eú,1
+pozwoliÊ,2
+pozwÛl,2
+pozwÛlcie,1
+pozycji,1
+poúcig,2
+poúle,1
+poúlepli,1
+poúlubiÊ,1
+poúmiewisko,1
+poúpieszy≥,1
+poúrodku,1
+poúrÛd,3
+poúwiÍca≥em,1
+po≥owami,1
+po≥owy,2
+po≥oøna,2
+po≥oøone,2
+po≥oøonego,2
+po≥oøonej,4
+po≥oøymy,1
+po≥oøy≥,6
+po≥oøy≥a,2
+po≥oøyÊ,1
+po≥udnia,1
+po≥udnie,2
+po≥udniowym,1
+po≥yskujπcych,1
+po≥πczyÊ,2
+po≥πczπ,1
+po≥Ûø,2
+poøar≥,1
+poøar≥y,3
+poøegnanie,1
+poøegna≥,2
+poøyteczni,1
+poøywienia,3
+poøywienie,4
+poøπda≥a,1
+prac,1
+pracy,2
+pracÍ,1
+pragniemy,1
+pragnienia,2
+pragnienie,1
+pragnieniom,1
+pragniesz,1
+pragnÍlibyúmy,1
+praojcem,1
+praojciec,2
+prawa,2
+prawda,5
+prawdπ,1
+prawdÍ,1
+prawe,1
+prawej,2
+prawo,9
+prawom,1
+prawym,1
+prawπ,4
+pra≥,1
+precz,1
+proch,1
+prochem,1
+prochu,1
+propozycjπ,1
+prorokiem,1
+prosi≥,1
+prosiÊ,2
+prosto,1
+prostπ,1
+proszÍ,2
+prowadzπc,1
+prowadzπcej,1
+proúby,3
+proúbÍ,1
+przaúne,1
+przebacz,1
+przebieg≥y,1
+przebi≥eú,1
+przebra≥a,1
+przebudzi≥,3
+przebudzi≥em,1
+przebywa,1
+przebywajπ,1
+przebywajπcy,1
+przebywajπcπ,1
+przebywali,3
+przebywam,1
+przebywasz,1
+przebywa≥,6
+przebywaÊ,1
+przechadza≥,1
+przechodzili,1
+przechodzi≥,2
+przechodziÊ,2
+przechowywaÊ,1
+przecieø,18
+przeciw,2
+przeciwko,1
+przeciwnie,1
+przeciwnym,3
+przed,52
+przede,6
+przedmiotem,1
+przedostali,1
+przedstawi≥,2
+przedstawiÍ,1
+przedtem,5
+przedzia≥y,1
+przed≥oøyÊ,1
+przegrody,1
+przejúcie,2
+przekazali,1
+przekazania,1
+przekaza≥,6
+przekazaÊ,1
+przekazujÍ,1
+przekazywa≥,1
+przekleÒstwa,1
+przekleÒstwo,3
+przeklÍta,2
+przeklÍtej,1
+przeklÍty,5
+przekonam,1
+przekonamy,1
+przekona≥,3
+przekonaÊ,4
+przekwit≥a,1
+przelania,1
+przelaniem,1
+przelanπ,1
+przemawiajπc,1
+przemawia≥,3
+przemienisz,1
+przemieni≥,1
+przemierz,1
+przemierzy≥,1
+przemocπ,1
+przemÛwili,1
+przemÛwi≥,3
+przemÛwiÊ,1
+przeniÛs≥,2
+przenocowaÊ,1
+przepaski,1
+przepowiednia,1
+przepowiedniπ,1
+przepowiedzia≥,4
+przeprawi≥,1
+przeprawi≥em,1
+przerazili,1
+przerazi≥,1
+przerazi≥em,1
+przeraøenia,2
+przeraøenie,4
+przerwy,1
+przestajπc,1
+przesta≥,1
+przesta≥a,2
+przesta≥y,1
+przestrzeni,1
+przestrzeniach,1
+przestrzeÒ,3
+przestÍpstw,1
+przestÍpstwa,1
+przestÍpstwo,1
+przesuwaÊ,1
+przeszed≥,1
+przeszukaj,1
+przeszuka≥,2
+przeszukiwa≥,1
+przesz≥a,1
+przesz≥o,1
+przesz≥y,1
+przes≥a≥a,1
+przeto,4
+przetrwania,1
+przetrwanie,1
+przetrwa≥,1
+przewidziane,1
+przewidzieÊ,1
+przewinienie,1
+przewrotne,1
+przewyøsza,1
+przewyøsza≥,1
+przewyøsza≥y,1
+przez,72
+przeze,1
+przeznaczasz,1
+przeznaczone,4
+przeznaczony,2
+przeznaczonym,1
+przeznaczy≥,2
+przezornego,1
+przezorny,1
+przeúwitujπcy,1
+prze≥oøonego,3
+prze≥oøony,3
+prze≥oøonym,2
+przeøywaÊ,1
+przeøy≥,11
+przodkami,1
+przodkowie,1
+przodkÛw,2
+przodzie,1
+przy,36
+przybiera≥y,1
+przybliøy≥,1
+przybocznej,3
+przybory,1
+przybrzeønej,2
+przybyciu,1
+przybyli,12
+przybysze,1
+przybyszem,1
+przybywa,1
+przybywa≥o,4
+przybywszy,1
+przyby≥,5
+przyby≥em,1
+przyb≥Ída,1
+przybÍdziesz,1
+przychodzenia,1
+przychodzi,1
+przychodzicie,1
+przychodzisz,1
+przychodzi≥y,1
+przychodziÊ,1
+przydarzaÊ,1
+przydarzy,2
+przydarzy≥o,3
+przygotowali,1
+przygotowane,2
+przygotowani,1
+przygotowanych,1
+przygotowanπ,2
+przygotowa≥,5
+przygotowa≥a,1
+przygotowa≥em,3
+przygotowa≥eú,1
+przygotowaÊ,1
+przygotowywa≥,1
+przygotuj,1
+przyjaciela,1
+przyjacielem,1
+przyjaciÛ≥,1
+przyjaciÛ≥mi,1
+przyjaüni,3
+przyjdzie,4
+przyjdziesz,2
+przyjdücie,1
+przyjdπ,2
+przyjmij,1
+przyjrza≥,1
+przyjrzyj,1
+przyjúciu,18
+przyjúÊ,4
+przyjπ≥,1
+przyjπÊ,1
+przyjÍcia,1
+przylecia≥y,1
+przylgnπ≥,1
+przylgnÍ,1
+przymierza,6
+przymierze,20
+przymierzem,1
+przymierzu,1
+przynaglaÊ,1
+przynajmniej,8
+przynaleøeÊ,1
+przyniesiono,1
+przynieú,3
+przynieúliúmy,1
+przynieúÊ,1
+przyniosÍ,1
+przyniÛs≥,6
+przynosi≥em,1
+przyobieca≥,1
+przyodziaÊ,1
+przyodziewa≥,1
+przypada,1
+przypadajπcπ,1
+przypadkach,1
+przypadkiem,2
+przypadku,1
+przypad≥oúÊ,1
+przypatrujπc,1
+przypomnieÊ,1
+przyprowadzajπc,1
+przyprowadzasz,1
+przyprowadzili,1
+przyprowadzi≥,8
+przyprowadzi≥a,1
+przyprowadziÊ,5
+przypÍdzali,1
+przyrzek≥,1
+przyrzπdzi≥,1
+przyrzπdü,1
+przysiπg≥,1
+przysiÍga,2
+przysiÍgi,3
+przysiÍgπ,1
+przysiÍgÍ,9
+przysmaki,1
+przyszed≥,9
+przyszed≥em,1
+przyszed≥eú,1
+przyszed≥szy,2
+przyszli,8
+przyszliúcie,1
+przysz≥a,3
+przysz≥ego,1
+przysz≥o,2
+przysz≥oúci,1
+przysz≥oúÊ,1
+przysz≥y,2
+przys≥ane,1
+przys≥anym,1
+przys≥a≥,2
+przys≥ugiwa≥o,1
+przys≥uguje,1
+przytrafi≥a,1
+przywdzia≥,1
+przywiedziony,1
+przywieüli,1
+przywiodÍ,1
+przywiπøe,1
+przywo≥a≥,3
+przywo≥a≥a,1
+przywo≥aÊ,3
+przywrÛci,1
+przywrÛciÊ,1
+przywrÛcono,1
+przyw≥aszczyli,1
+przywÛdcami,1
+przywÛdcy,12
+przywÛdcÛw,1
+przyznania,1
+prπøki,4
+prπøkowane,2
+prπøkowanymi,1
+prÍdzej,4
+prÛbie,2
+prÛbowali,1
+prÛcz,4
+prÛøno,1
+pszenicy,1
+ptactwem,1
+ptactwo,3
+ptakami,1
+ptaki,11
+ptakom,1
+ptakÛw,7
+puchar,11
+pucharu,1
+puchary,1
+purpurowy,1
+pusta,2
+pustkowiu,1
+pustymi,1
+pustyni,6
+puszczajπc,1
+puszczÍ,1
+puúci≥bym,1
+puúciÊ,1
+pyta,1
+pytajπc,3
+pytasz,1
+pyta≥,4
+pyta≥a,1
+py≥,1
+py≥em,1
+py≥u,1
+p≥aczem,1
+p≥aczu,2
+p≥aka≥,2
+p≥akaÊ,2
+p≥aszcz,4
+p≥aszczem,1
+p≥azami,1
+p≥azy,5
+p≥azÛw,3
+p≥ci,3
+p≥odne,2
+p≥odni,4
+p≥odny,1
+p≥odnym,5
+p≥odÛw,1
+p≥onπcej,1
+p≥ynπ≥,1
+p≥ywajπce,3
+p≥ywaÊ,1
+pπki,1
+pÍciny,1
+pÍd,1
+pÍdzi≥,2
+pÍdziÊ,1
+pÍdzÍ,1
+pÛjdzie,1
+pÛjdπ,1
+pÛjdÍ,4
+pÛjúÊ,2
+pÛki,1
+pÛl,3
+pÛünej,1
+pÛüniej,6
+pÛ≥,1
+pÛ≥noc,2
+rachunek,1
+racjÍ,1
+racz,3
+raczej,6
+radosnym,1
+radoúciπ,1
+rady,2
+radzono,1
+radÍ,1
+ramieniu,2
+ramiona,5
+ramionach,1
+ranek,1
+ranili,1
+ranka,1
+rankiem,5
+rano,6
+ratowa≥,1
+raz,17
+razem,46
+razie,4
+razu,10
+razy,9
+regularnie,1
+reszta,2
+reszty,1
+resztÍ,2
+robiÊ,1
+rodowi,1
+rodowÛd,1
+rodu,1
+rody,1
+rodzaje,1
+rodzajom,1
+rodzaju,1
+rodzajÛw,1
+rodzin,1
+rodzina,2
+rodzinami,1
+rodzinie,1
+rodzinnego,1
+rodzinnych,1
+rodziny,5
+rodzinπ,3
+rodzinÍ,1
+rodzi≥a,1
+rodzi≥y,4
+rodziÊ,4
+rodzonej,1
+rodzπce,1
+rodzπcymi,3
+rodÛw,1
+rogami,1
+rok,6
+roku,7
+roli,1
+rosa,1
+rosnπce,1
+roszczeniem,2
+ros≥o,2
+rosÍ,1
+rozbijajπc,1
+rozbi≥,6
+rozbrzmiewa,1
+rozciπga≥o,1
+rozciπga≥y,1
+rozciπgnÍ,1
+rozdar≥,2
+rozdraøniona,1
+rozdziela,1
+rozdzielajπca,1
+rozejrzawszy,1
+rozejrza≥,2
+rozejrzyj,1
+rozesz≥a,1
+rozes≥aÊ,1
+rozglπdajπc,1
+rozgniewa≥,3
+rozgoryczony,1
+rozgramiajπc,1
+rozgromili,1
+rozkaz,2
+rozkaza≥,4
+rozkazem,1
+rozkazom,1
+rozkazy,1
+rozkaøe,1
+rozkoszy,1
+rozleg≥ej,1
+rozleg≥ych,1
+rozleg≥π,1
+rozlewu,1
+rozmawiam,1
+rozmawia≥,2
+rozmi≥owanym,1
+rozmnaøa,1
+rozmnaøaj,1
+rozmnaøajcie,4
+rozmnaøajπ,1
+rozmnaøali,2
+rozmnoøy,1
+rozmnoøÍ,2
+rozmowa,1
+rozmowie,1
+rozmowÍ,4
+rozpaczaÊ,1
+rozpalonego,1
+rozpoczπ≥,2
+rozpoczπÊ,3
+rozpoczÍli,1
+rozporzπdzajπ,1
+rozpozna≥,4
+rozprasza≥o,1
+rozproszeniu,1
+rozproszy≥,2
+rozproszÍ,1
+rozprowadza≥,1
+rozprzestrzenisz,1
+rozp≥akali,1
+rozros≥o,1
+rozsiane,2
+rozsiod≥a≥,1
+rozstali,1
+rozstaniemy,1
+rozszarpany,1
+rozszarpanych,1
+rozszarpa≥o,2
+rozszarpuje,1
+rozszarpywaÊ,1
+rozsπdzi,1
+rozsπdzπ,1
+rozumia≥,1
+rozumie,1
+rozumiem,1
+rozwar≥a,1
+rozwidniaÊ,1
+roz≥oøonego,1
+roz≥πczyli,1
+roúlinami,2
+roúlinnoúciπ,1
+roúliny,2
+roúnie,1
+ru,1
+rudy,1
+rusza,2
+ruszaj,1
+ruszajcie,2
+ruszajmy,1
+ruszcie,1
+ruszycie,1
+ruszyli,6
+ruszymy,1
+ruszy≥,9
+ruszy≥eú,1
+ruszy≥y,1
+ruszyÊ,2
+ryb,1
+ryby,2
+rychlej,1
+rzece,1
+rzecz,1
+rzeczy,1
+rzeczywiúcie,10
+rzeka,1
+rzeki,1
+rzekomo,1
+rzek≥,29
+rzek≥a,3
+rzekπ,1
+rzekÍ,1
+rzemyka,1
+rzucili,1
+rzuci≥,3
+rzuci≥em,1
+rzucπ,1
+rzπdcπ,1
+rzπdy,1
+rzπdziÊ,1
+rzπdÛw,1
+rπczka,1
+rπczkÍ,2
+rπk,6
+rÍce,10
+rÍkach,6
+rÍkami,4
+rÍkawami,3
+rÍki,5
+rÍkom,1
+rÍku,4
+rÍkπ,2
+rÍkÍ,11
+rÛs≥,1
+rÛwni,1
+rÛwnie,1
+rÛwnieø,24
+rÛwninie,2
+rÛwniny,1
+rÛøne,4
+rÛønej,1
+rÛønorodne,2
+rÛønych,2
+rÛønymi,2
+rÛønπ,1
+sakiewkÍ,1
+sam,28
+sama,5
+samca,1
+samce,1
+samcu,1
+samcÛw,2
+same,1
+samego,15
+samej,11
+samemu,1
+sami,7
+samic,3
+samica,2
+samice,1
+samicy,1
+samicÍ,1
+samiec,2
+samo,6
+samych,4
+samym,8
+samymi,1
+samπ,2
+sanda≥a,1
+schodzπc,1
+schodzÍ,1
+schronienia,1
+schronisz,1
+schroniÊ,1
+sen,16
+senne,2
+sennych,1
+serca,2
+serce,2
+sercem,4
+serdecznie,1
+siadywa≥a,1
+siarki,1
+siebie,40
+siedem,47
+siedemdziesiπt,7
+siedemdziesiÍciu,1
+siedemnastego,2
+siedemnastoletni,1
+siedemnaúcie,1
+siedemset,2
+siedmiokrotnie,1
+siedmioletni,1
+siedmioma,1
+siedmioro,1
+siedmiu,6
+siedzia≥,2
+siedzπc,1
+sierúci,2
+sierúciπ,1
+silny,1
+silnych,1
+siod≥em,1
+siostra,9
+siostry,4
+siostrπ,9
+siostrÍ,4
+siwow≥osy,3
+si≥,1
+si≥y,3
+siÍ,794
+siÍgajπ,1
+siÍgajπce,1
+siÍgajπcπ,1
+siÍga≥,1
+siÍgnπ≥,1
+siÍgnÍli,1
+siÒca,1
+siÛdmego,2
+siÛdmy,1
+siÛdmym,1
+skalnej,1
+skarbca,1
+skarci≥,1
+skargi,1
+skazana,1
+skazywa≥,1
+ska≥a,1
+skierowali,1
+sklepienie,3
+sklepieniem,1
+sklepieniu,1
+skoku,1
+skona≥,1
+skoro,6
+skosztowa≥a,1
+skoÒczy≥,4
+skoÒczy≥a,1
+skoÒczy≥em,1
+skoÒczy≥y,1
+skradzione,1
+skrad≥a,2
+skrad≥eú,1
+skraju,1
+skryli,1
+skry≥a,1
+skrzydlatych,1
+skrzywdziliúmy,1
+skrÍpowali,1
+skusi≥,1
+sk≥ada,1
+sk≥ada≥,4
+sk≥ada≥y,1
+sk≥ania,1
+sk≥onili,1
+sk≥oni≥,2
+sk≥oni≥em,1
+sk≥oni≥o,1
+sk≥onni,1
+skπd,3
+skÛra,1
+skÛry,1
+skÛrπ,1
+smaczny,2
+smacznπ,3
+smakowite,1
+smo≥a,1
+smo≥π,1
+smo≥Í,1
+smutek,1
+smutku,4
+smutny,1
+snach,1
+snami,1
+snop,2
+snopy,2
+snu,5
+sny,7
+snÛw,2
+sobie,58
+sobπ,34
+soczewicy,1
+sodomscy,1
+soli,1
+spada,1
+spadaÊ,1
+spadkobiercπ,1
+spadku,1
+spadnie,2
+spad≥aby,1
+spalenia,2
+spaliÊ,1
+spa≥,1
+spaÊ,1
+specjalne,1
+specjalnych,1
+spe≥ni,1
+spe≥nimy,1
+spichrze,1
+spoczynek,1
+spoczywa≥o,1
+spodoba,1
+spoglπdaj,1
+spoglπdali,1
+spoglπda≥,1
+spojrzawszy,1
+spojrza≥a,1
+spojrzyj,1
+spokojni,1
+spokojnie,5
+spokojny,1
+spokoju,3
+spokÛj,1
+spomiÍdzy,1
+sporÛw,1
+sposobu,1
+spostrzegli,2
+spostrzeg≥a,2
+sposÛb,31
+spotka,3
+spotkali,1
+spotkanie,5
+spotkaniu,1
+spotka≥,5
+spotka≥em,1
+spotkaÊ,2
+spowinowaciÊ,1
+spoúrÛd,10
+spo≥ecznoúci,1
+spoøyj,1
+spoøyje,1
+spoøywaÊ,5
+spoøy≥,1
+spraw,1
+sprawdzi≥a,1
+sprawi,1
+sprawia,1
+sprawiedliwie,1
+sprawiedliwoúÊ,1
+sprawiedliwy,3
+sprawiedliwych,9
+sprawiedliwym,1
+sprawili,1
+sprawi≥,7
+sprawiπ,1
+sprawiÍ,2
+sprawπ,5
+sprawÍ,5
+sprowadza,1
+sprowadzi,1
+sprowadzili,1
+sprowadzisz,1
+sprowadzi≥,1
+sprowadzi≥a,1
+sprowadzi≥eú,1
+sprowadziÊ,7
+sprowadzone,1
+sprowadzono,2
+sprowadzπ,1
+sprowadzÍ,8
+sprowadü,1
+sprzeciw,1
+sprzeciwu,1
+sprzeczano,1
+sprzeda,1
+sprzedaj,1
+sprzedajmy,1
+sprzedali,4
+sprzedaliúcie,1
+sprzedawali,1
+sprzedawa≥,1
+sprzedawaÊ,2
+sprzeda≥,1
+sprzedaø,1
+sprzedaøy,1
+sprzeniewierza≥,1
+sprzeniewierzy≥,1
+sprzymierzeÒcÛw,1
+sprzymierzonymi,2
+sprzÍt,1
+spustoszyli,1
+spuszczonπ,3
+spuúciünie,1
+spyta≥,1
+sp≥ynie,2
+sp≥ynÍ≥y,1
+sp≥ywaÊ,1
+spÍdzanie,1
+spÍdzili,1
+spÍdzisz,1
+spÍdzi≥,1
+spÍdziÊ,2
+spÛr,3
+srebra,7
+srebrnikÛw,1
+srebrny,1
+srebrnych,1
+srebro,1
+stad,3
+stada,15
+stadami,4
+stado,4
+stadom,1
+stajπc,16
+staliúmy,1
+stamtπd,10
+stanie,8
+staniemy,1
+staniesz,1
+stanowiπ,3
+stanowiÊ,1
+stanπ,2
+stanπ≥,1
+stanπÊ,2
+stanÍ≥o,1
+stara,2
+staraj,2
+staranie,1
+starannie,3
+stara≥,1
+starczy,1
+staroúci,3
+starsi,1
+starsza,3
+starszego,2
+starszy,3
+starszyzna,1
+starszπ,1
+staruszka,1
+stary,3
+starym,1
+starzec,3
+starzy,3
+staw,2
+stawa≥,2
+stawie,1
+stawu,1
+sta≥,14
+sta≥a,18
+sta≥e,3
+sta≥em,1
+sta≥eú,1
+sta≥o,9
+sta≥y,1
+staÊ,4
+stelÍ,1
+sto,17
+stoi,4
+stoisz,1
+stojπc,1
+stojπcego,1
+stojπcej,1
+stojπcym,1
+stojÍ,2
+stokrotne,1
+stolicπ,2
+stosownie,1
+stosownym,1
+sto≥owej,7
+sto≥u,4
+strach,1
+strapienia,1
+straønika,1
+straønikÛw,1
+straøy,4
+stron,1
+stronie,7
+strony,5
+stronÍ,10
+strumienia,1
+strumieniami,1
+strumienie,1
+strza≥ami,1
+strza≥u,1
+strzeg≥,2
+strzeg≥y,1
+strzegπc,1
+strzeøe,1
+strzeøone,2
+strzyc,1
+strzyøono,2
+strÛøem,2
+stu,3
+studni,24
+studnia,4
+studnie,1
+studniÍ,8
+stuletni,1
+stwarzania,1
+stwarza≥,1
+stwierdzili,1
+stworzenia,3
+stworzeniami,1
+stworzeniu,1
+stworzonych,1
+stworzy≥,8
+stworzy≥em,3
+stπd,8
+sucha,2
+suchπ,1
+suknie,1
+sukniÍ,1
+sumie,3
+sumÍ,2
+surowiej,1
+surowo,3
+surowoúciπ,1
+swawoli,1
+swe,5
+swego,56
+swej,3
+swemu,3
+swobodnie,4
+swoich,44
+swoim,29
+swoimi,2
+swoje,37
+swojego,30
+swojej,30
+swojemu,3
+swojπ,30
+swych,4
+swym,3
+swymi,8
+swπ,1
+swÛj,15
+sykla,1
+sykli,2
+syn,34
+syna,94
+synami,16
+synem,8
+synogarlicÍ,1
+synom,4
+synowa,2
+synowej,1
+synowi,7
+synowie,40
+synowπ,1
+synu,12
+synÛw,66
+sypialni,3
+syta,1
+sytoúci,1
+szacunek,1
+szanowano,1
+szat,2
+szata,2
+szaty,12
+szatÍ,4
+sza≥asy,1
+szczegÛlnie,3
+szczegÛlnym,2
+szczepy,1
+szczepÛw,15
+szczeroúci,2
+szczÍúcia,1
+szczÍúcie,3
+szczÍúliwie,3
+szczÍúliwπ,1
+szed≥,1
+szeolu,1
+szerokoúci,1
+szesnaúcioro,1
+szeúciu,1
+szeúÊ,2
+szeúÊdziesiπt,8
+szeúÊset,2
+szeúÊsetny,1
+szkody,1
+szli,2
+szlochaÊ,1
+sznur,2
+szpiegami,6
+szpiegÛw,1
+sztuk,5
+sztuki,6
+szukali,1
+szukam,1
+szukasz,1
+szuka≥,2
+szukaÊ,1
+szwagra,1
+szybko,9
+szyi,1
+szyjÍ,4
+szy≥,1
+sz≥a,1
+szÛstego,2
+szÛstym,1
+s≥abe,1
+s≥absze,1
+s≥abych,1
+s≥awni,2
+s≥omy,2
+s≥owa,10
+s≥owami,3
+s≥owu,1
+s≥oÒca,4
+s≥oÒce,4
+s≥ucha,1
+s≥uchali,1
+s≥udze,4
+s≥udzy,8
+s≥ug,9
+s≥uga,21
+s≥ugami,2
+s≥ugi,9
+s≥ugom,2
+s≥ugπ,10
+s≥ugÍ,4
+s≥up,1
+s≥usznie,1
+s≥uøbie,2
+s≥uøby,10
+s≥uøebnic,2
+s≥uøebnych,3
+s≥uøysz,1
+s≥uøy≥,3
+s≥uøy≥em,4
+s≥uøy≥o,1
+s≥uøyÊ,5
+s≥uøπ,2
+s≥uøπc,1
+s≥uøπcπ,2
+s≥ychaÊ,1
+s≥ysza≥,1
+s≥ysza≥a,1
+s≥yszeli,1
+s≥yszy,2
+s≥yszπc,1
+sπ,37
+sπdzili,1
+sπsiednie,1
+sÍdzia,1
+sÍdziami,1
+sÍdziwego,2
+sÍdziwych,1
+sÍdziπ,4
+ta,9
+tak,190
+taka,2
+taki,9
+takich,1
+takie,13
+takiego,5
+takiej,1
+takim,2
+takπ,6
+takøe,48
+tam,67
+tamaryszkowe,1
+tamta,1
+tamte,1
+tamtego,1
+tamtej,1
+tamtejszych,2
+tamten,1
+tamtÍdy,1
+tamwÛwczas,1
+tasiemkπ,1
+tasiemkÍ,1
+tchnienie,2
+tchnπ≥,1
+te,25
+tedy,33
+tego,80
+tej,32
+temu,7
+ten,71
+teraz,38
+terebintu,1
+tereny,1
+teúciowi,1
+teúÊ,1
+teø,87
+tknie,1
+tknπ≥,1
+to,289
+tobie,14
+tobπ,34
+toczy≥,1
+topoli,1
+towarzyszyli,5
+towarzyszy≥,1
+traktowano,1
+traktowa≥,1
+traktowaÊ,2
+trapcie,1
+trawami,2
+trawie,2
+trawy,1
+trochÍ,13
+troje,1
+tron,1
+tronie,1
+troskach,1
+troskÍ,1
+troszczy≥,1
+troszczy≥em,1
+trud,1
+trudnili,1
+trudno,1
+trudy,1
+trudzie,1
+trudzili,1
+trudzi≥,2
+trwa,2
+trwa≥a,2
+trwa≥o,3
+tryskajπcπ,1
+trzeba,2
+trzech,8
+trzeci,2
+trzeciego,2
+trzeciemu,1
+trzecim,1
+trzej,3
+trzoda,2
+trzodach,1
+trzodami,4
+trzody,13
+trzodzie,1
+trzodπ,2
+trzodÍ,2
+trzy,13
+trzydziestu,2
+trzydzieúci,15
+trzydzieúcioro,1
+trzyletniego,1
+trzyletniπ,2
+trzymaj,1
+trzymajπc,1
+trzymasz,1
+trzymaÊ,1
+trzynastego,1
+trzynaúcie,1
+trzysta,5
+trzystu,1
+trzÍsπc,2
+trzÛd,3
+tu,59
+tu≥acz,2
+tuø,1
+twarz,15
+twarzy,1
+twarzπ,1
+twe,1
+twego,15
+twej,1
+twemu,3
+twierdzi≥eú,1
+twoi,13
+twoich,21
+twoim,17
+twoimi,5
+twoja,6
+twoje,25
+twojego,23
+twojej,9
+twojemu,6
+twojπ,14
+tworzπ,2
+tworzπcymi,1
+twÛj,19
+ty,34
+tych,22
+tydzieÒ,2
+tyle,8
+tylko,56
+tym,73
+tymczasem,4
+tymi,7
+tysiπc,1
+tysiÍcy,2
+ty≥em,1
+t≥umaczem,1
+t≥umaczenie,1
+t≥umaczy≥,1
+t≥uste,1
+t≥ustoúciπ,1
+t≥ustych,1
+t≥uszczu,1
+tπ,4
+tÍ,16
+tÍsknota,1
+u,37
+ubrania,4
+ubranie,1
+ub≥agaÊ,1
+uca≥owa≥,6
+uca≥owaÊ,1
+uchodzi≥,1
+uchodzi≥o,1
+uchodzπ,1
+uchroniÊ,1
+uchylone,1
+uciec,2
+uciekaj,1
+uciekajπcy,1
+ucieka≥,1
+ucieka≥eú,1
+uciekaÊ,1
+uciekli,1
+ucieknij,1
+uciek≥,6
+uciek≥a,1
+ucisku,2
+uczciwi,1
+uczciwie,1
+uczciwoúÊ,1
+uczciwymi,4
+ucztÍ,3
+uczyni,3
+uczynili,1
+uczyniono,1
+uczyniony,1
+uczynisz,1
+uczyni≥,14
+uczyni≥aú,1
+uczyni≥em,2
+uczyni≥eú,3
+uczyniÊ,12
+uczyniÍ,4
+uda,2
+udaj,3
+udaje,1
+udali,3
+udamy,1
+udasz,2
+udawali,1
+udawa≥em,1
+uda≥,14
+uda≥em,1
+uda≥o,1
+udaÊ,9
+uderzy,1
+uderzy≥,1
+udrÍczone,1
+udrÍki,1
+udzia≥,2
+udzia≥u,1
+udziel,1
+udziela≥,1
+udzieli≥,2
+udzielÍ,1
+ugnie,1
+ugodzisz,1
+ugodzi≥,1
+ugodzony,1
+ujrza≥,2
+ukarany,3
+ukaza≥,10
+ukaza≥a,2
+ukaza≥y,1
+ukazaÊ,1
+ukazuje,1
+ukaøe,1
+ukoÒczy≥,1
+ukrywa≥,1
+ukrywaÊ,2
+ukry≥em,1
+ukryÊ,1
+uk≥adajπc,1
+uk≥on,1
+ulega≥,1
+ulegnie,1
+uleg≥y,1
+ulepiwszy,1
+ulepi≥,1
+ulewa,1
+ulewÍ,1
+ulitowa≥,1
+umar≥,12
+umierajπc,1
+umieram,1
+umiera≥,3
+umieraÊ,1
+umieúcili,1
+umieúci≥,4
+umieúci≥eú,1
+umi≥owanego,1
+umrze,3
+umrzesz,1
+umrzeÊ,3
+umrÍ,6
+umycia,1
+umÍczeniu,1
+umÛwiony,1
+unicestwiπ,1
+unicestwiÍ,1
+unieúÊ,1
+uniknπÊ,1
+unosi≥,2
+upadli,1
+upad≥,5
+upad≥szy,1
+upatrzy,2
+upa≥,1
+upiec,1
+upiecz,1
+upi≥,2
+upodobania,2
+upodobaniami,1
+upodobanie,1
+upolowanej,2
+upolowa≥,4
+upolowa≥em,1
+upolowa≥eú,1
+upolowaÊ,2
+upominkami,1
+uprawianego,1
+uprawia≥,5
+uprawia≥a,1
+uprawiaÊ,1
+uprawne,1
+uprawnπ,1
+uprawπ,1
+uprowadzeniu,1
+uprowadzi≥eú,1
+uprzednio,4
+uprzedzi≥,1
+up≥ynπ≥,7
+up≥ynÍ≥o,1
+up≥ynÍ≥y,1
+up≥ywie,1
+uratowali,1
+uratowaÊ,5
+uratujemy,1
+uratujÍ,1
+uroczystoúciom,1
+uroczysty,1
+urodzajnych,1
+urodzaju,3
+urodzeni,1
+urodzeniu,1
+urodzi,1
+urodzili,7
+urodziny,1
+urodzi≥,21
+urodzi≥a,36
+urodzi≥am,3
+urodzi≥o,1
+urodziÊ,2
+urodzonych,1
+urodzπ,1
+urzeczywistniaÊ,1
+urzπd,3
+urzπdzi≥,1
+urzÍdnicy,1
+urzÍdnikom,1
+urzÍdnikowi,2
+urzÍdnikÛw,2
+urzÍdzie,1
+usiad≥a,2
+usilne,1
+usi≥ujπc,1
+usiπúÊ,1
+uskarøali,1
+uspokoi,1
+usprawiedliwienie,1
+ustanawiam,1
+ustanie,1
+ustanowi,1
+ustanowi≥,4
+ustanowiÊ,1
+ustawicznie,1
+ustawiony,1
+ustawi≥,2
+usta≥a,1
+ustπpi≥y,4
+ustÍpowa≥y,1
+usuniÍciu,1
+usuniÍto,1
+usuwali,1
+uszanowane,1
+uszanujesz,1
+uszu,2
+us≥uchacie,1
+us≥uchaj,1
+us≥uchali,2
+us≥uchaliúcie,1
+us≥ucha≥,1
+us≥ucha≥eú,2
+us≥ysza≥,7
+us≥ysza≥a,1
+us≥yszeÊ,2
+us≥yszy,1
+utracie,1
+utraciÊ,1
+utrapienia,1
+utrapieniach,1
+utrapienie,1
+utrzymanie,1
+utrzymywali,1
+utrzymywania,1
+utrzymywa≥,1
+utworzy≥,1
+utworzy≥a,1
+utworzyÊ,1
+utykajπc,1
+uwagÍ,1
+uwaøaÊ,1
+uwaønie,3
+uwielbiony,2
+uwielbi≥em,1
+uwolnisz,1
+uwolniÍ,1
+uzdrowi≥,1
+uznasz,2
+uzna≥,1
+uzyskali,1
+uzyskano,1
+uzyskasz,1
+uúciska≥,2
+uúmiecha≥a,1
+uúmiecha≥am,1
+u≥agodzÍ,1
+u≥oøyli,1
+u≥oøy≥,1
+u≥oøy≥a,1
+uøywa,1
+w,532
+waha≥,1
+walczy≥,1
+walczy≥eú,1
+walczyÊ,1
+walki,2
+wam,23
+wami,14
+warte,1
+warunkiem,2
+was,30
+wasi,1
+wasz,9
+wasze,13
+waszego,17
+waszej,4
+waszych,9
+waszym,2
+waszymi,1
+waszπ,1
+waúni,1
+waø,2
+waøy≥,2
+waøπce,1
+wcale,2
+wchodzili,2
+wchodzÍ,1
+wch≥oniÍte,2
+wch≥onπÊ,1
+wciπgnÍli,1
+wczesnej,1
+wczesnym,3
+wczeúniej,1
+wczoraj,3
+wdowa,1
+wdowie,2
+wdzia≥,1
+wdziÍcznoúÊ,1
+wdziÍku,1
+we,19
+wedle,1
+wed≥ug,11
+wejdπ,1
+wejrza≥,7
+wejrzy,2
+wejúcia,3
+wejúcie,2
+wejúciem,1
+wejúÊ,1
+welon,2
+weszli,3
+wesz≥o,1
+wesz≥y,2
+wewnπtrz,3
+wezbra≥y,1
+wezg≥owie,1
+wezmπ,1
+wezmÍ,1
+wezwa≥,3
+wezwaÊ,1
+weü,3
+weümie,2
+weümiemy,1
+weümiesz,1
+wiadomo,1
+wiadomoúÊ,4
+wiarÍ,1
+wiatr,1
+wiatrem,3
+widnia≥,1
+widoczne,1
+widok,1
+widzenia,2
+widzenie,2
+widzeÒ,1
+widzi,1
+widzia≥,13
+widzia≥em,6
+widzicie,1
+widzieli,1
+widzimy,1
+widzisz,2
+widzπc,3
+widzÍ,2
+wie,1
+wiecie,1
+wieczne,3
+wiecznym,1
+wiecznπ,1
+wieczorem,6
+wieczoru,1
+wieczÛr,10
+wiedz,1
+wiedzia≥,4
+wiedzia≥a,1
+wiedzia≥em,1
+wiedzie,1
+wiedzieliúcie,1
+wiedzieÊ,1
+wiedzy,1
+wiedzπ,2
+wieki,1
+wieku,7
+wielbiÊ,1
+wielb≥πda,2
+wielb≥πdami,1
+wielb≥πdom,1
+wielb≥πdy,10
+wielb≥πdzic,1
+wielb≥πdzie,1
+wielb≥πdÛw,9
+wiele,15
+wielka,2
+wielki,5
+wielkie,7
+wielkiego,9
+wielkiej,2
+wielkiemu,2
+wielkim,5
+wielkπ,6
+wielu,24
+wiem,6
+wiemy,1
+wiernie,1
+wiernoúci,1
+wierny,1
+wierzch,1
+wierzcho≥ek,1
+wierzcho≥kami,1
+wierzcho≥ki,1
+wierzchu,3
+wierzy≥,1
+wierzy≥em,1
+wieúÊ,1
+wieüli,1
+wieøa,1
+wieøÍ,2
+wilk,1
+wina,8
+winem,2
+winie,1
+winne,1
+winnego,2
+winni,1
+winnicy,1
+winny,1
+winnych,3
+wino,2
+winoroúl,1
+winoroúli,1
+winy,6
+winÍ,1
+wiod≥o,2
+wiodπcej,2
+wiπøπcπ,1
+wiÍc,94
+wiÍcej,6
+wiÍksze,1
+wiÍkszy,5
+wiÍkszπ,2
+wiÍzienia,6
+wiÍzieniu,10
+wiÍüniowie,1
+wiÍüniÛw,1
+wkrad≥,1
+wkroczy≥,2
+wkrÛtce,5
+wk≥adania,1
+wnoszono,1
+wnuczka,1
+wnuczki,1
+wnukÛw,4
+wnÍtrznoúciach,1
+wobec,19
+woda,3
+wodach,1
+wodami,2
+wody,31
+wodzie,3
+wodπ,8
+wodÍ,6
+wojenne,1
+wojnÍ,1
+wojownik,1
+wojsk,2
+wojskowych,1
+wokÛ≥,3
+wola≥,1
+woli,2
+wolna,2
+wolne,1
+wolno,13
+wolnoúci,1
+wolnoúÊ,1
+wolnym,1
+woni,1
+wonnej,1
+wonnoúciami,1
+wonnπ,1
+worek,1
+worka,5
+workach,2
+worki,7
+worku,4
+workÛw,3
+wozach,1
+wozy,3
+wo≥a,1
+wo≥ania,1
+wo≥ano,1
+wo≥aÊ,2
+wo≥y,2
+wo≥Ûw,8
+woÒ,1
+wprowadzeni,2
+wprowadzisz,1
+wprowadzi≥,1
+wracaj,1
+wracajcie,1
+wraca≥,2
+wracaÊ,1
+wraz,5
+wreszcie,11
+wrogoúci,1
+wrogÛw,3
+wrzucili,1
+wrzuciÊ,1
+wrzuÊmy,1
+wrzπca,1
+wrÍczyli,1
+wrÍczy≥,1
+wrÛcili,4
+wrÛcilibyúmy,1
+wrÛcimy,1
+wrÛcisz,2
+wrÛci≥,7
+wrÛci≥a,3
+wrÛciÊ,4
+wrÛcπ,2
+wrÛcÍ,3
+wrÛøbitom,1
+wrÛøbitÛw,1
+wrÛøenia,1
+wsadza≥,1
+wsadzi≥,1
+wschodniej,2
+wschodnim,3
+wschodu,2
+wschodzie,4
+wschÛd,8
+wsiad≥y,1
+wsiπdzie,1
+wskaza≥,2
+wskazaÊ,1
+wskaøÍ,4
+wskutek,1
+wspiera≥,1
+wspomaga≥,1
+wspomnianej,1
+wspomnij,1
+wspomnÍ,1
+wspÛlna,1
+wspÛlnego,3
+wspÛlnym,3
+wspÛ≥czesnych,1
+wstali,2
+wstawia≥,1
+wstawi≥,1
+wstawszy,1
+wsta≥,2
+wsta≥a,2
+wstaÊ,1
+wstydu,1
+wstπpi≥,1
+wszczyna≥eú,1
+wszechmocny,1
+wszed≥,2
+wszed≥eú,1
+wszelka,1
+wszelki,1
+wszelkich,2
+wszelkie,7
+wszelkiego,1
+wszelkiej,1
+wszelkim,1
+wszelkimi,1
+wszelkπ,7
+wszerz,1
+wszyscy,31
+wszystkich,49
+wszystkie,60
+wszystkiego,8
+wszystkiemu,1
+wszystkim,32
+wszystkimi,5
+wszystko,56
+wszystkowidzπcy,1
+ws≥awi≥,1
+wtargnÍli,1
+wtedy,31
+wtrπci≥,1
+wtrπciÊ,2
+wtyka≥,1
+wy,3
+wybieg≥,1
+wybieg≥a,1
+wybierane,1
+wybraliúcie,1
+wybrana,3
+wybrane,1
+wybra≥,3
+wybra≥em,1
+wybuchnπ≥,1
+wychodzi≥o,2
+wyciska≥em,1
+wycisnπ≥,1
+wyciπga,1
+wyciπgajπc,1
+wyciπgniÍte,1
+wyciπgnπ≥,4
+wyciπgnÍli,1
+wyczerpa≥y,1
+wyda,2
+wydajπce,1
+wydajπcymi,2
+wydalili,1
+wydali≥,2
+wydanym,1
+wydarzeniach,3
+wydar≥em,1
+wydawa≥y,1
+wydawaÊ,1
+wyda≥,11
+wyda≥a,5
+wydaÊ,1
+wydobyli,1
+wydobywano,1
+wydostaÊ,1
+wydzieli≥,1
+wyginie,1
+wyginÍ≥o,2
+wyglπdajπc,1
+wyglπdajπce,2
+wyglπda≥y,3
+wygubiÊ,1
+wyg≥odzonych,1
+wyjawi≥,1
+wyjdziecie,1
+wyjdπ,1
+wyjπ≥,1
+wyjÍte,1
+wykonywa≥,1
+wykopali,2
+wykopana,1
+wykopane,2
+wykopa≥,1
+wykopa≥em,1
+wykroczeÒ,1
+wykupiÊ,1
+wykupywa≥,1
+wyla≥,1
+wyla≥a,1
+wyla≥eú,1
+wylecia≥,1
+wyleguje,1
+wyliczeni,1
+wymienionych,1
+wynagrodzi≥,1
+wyniszcza≥,1
+wynosi≥,1
+wynosi≥y,1
+wynÍdznia≥ego,1
+wypada,1
+wypadku,2
+wypad≥y,1
+wypalimy,1
+wype≥nia,1
+wype≥niajπc,1
+wype≥ni≥,2
+wype≥niÊ,1
+wypoczπÊ,1
+wypowiadajπc,1
+wypowiadaÊ,1
+wypowiedzia≥,2
+wypowiedzieli,1
+wypowiedzieÊ,1
+wyprawili,1
+wyprawi≥,5
+wyprawy,1
+wyprowadzili,1
+wyprowadzi≥,2
+wyprowadziÊ,1
+wyprowadzono,1
+wyprowadzÍ,1
+wyprÛbowanych,1
+wypuszczono,1
+wypuúci≥,4
+wypytywali,1
+wypytywa≥,1
+wyp≥akaÊ,1
+wypÍdzasz,1
+wyrastajπcych,2
+wyrasta≥y,1
+wyraünie,2
+wyraøa,1
+wyrocznia,1
+wyrok,1
+wyros≥o,1
+wyroúnie,1
+wyruszaj,1
+wyruszali,1
+wyrusza≥em,1
+wyruszyli,1
+wyruszymy,1
+wyruszy≥,13
+wyruszyÊ,1
+wyruszÍ,1
+wyrwa≥,1
+wyrwaÊ,1
+wyrzπdzaÊ,1
+wyrzπdzili,1
+wyrzπdzi≥eú,1
+wyrÛønia≥,1
+wyrÛønionego,1
+wyrÛøni≥,1
+wysch≥y,1
+wyskoczy≥a,1
+wysoki,2
+wysokich,1
+wysokim,1
+wysoko,1
+wysokoúci,1
+wyspach,1
+wyspy,1
+wystarczy,2
+wystπpi≥,1
+wystπpiÊ,1
+wystÍpki,1
+wystÍpowaÊ,1
+wysunπ≥,1
+wysuszone,3
+wysuszonych,2
+wyszed≥,8
+wyszli,3
+wysz≥a,2
+wysz≥o,2
+wysz≥y,1
+wys≥ali,1
+wys≥annicy,1
+wys≥awiaÊ,1
+wys≥a≥,2
+wys≥ucham,1
+wys≥ucha≥,3
+wys≥uøy≥em,1
+wytapiania,1
+wytraci≥,1
+wytraciÊ,1
+wytracÍ,1
+wytrzeüwia≥,1
+wytrzymam,1
+wyt≥umaczy≥,1
+wyt≥umaczyÊ,2
+wytÍpi≥,1
+wywiedzie,1
+wywiÛd≥,2
+wywodzi,2
+wywodzili,1
+wywodzi≥y,1
+wywodziÊ,3
+wywodzπ,6
+wywodzπc,1
+wyzionie,1
+wyznacz,1
+wyznacza≥y,1
+wyznaczony,1
+wyznaÊ,3
+wyúcie,1
+wyúle,1
+wyúmiewa,1
+wyúwiadczyliúmy,1
+wyúwiadczyÊ,1
+wy≥amywaÊ,1
+wy≥aniaÊ,2
+wy≥oni≥y,1
+wy≥oøyli,1
+wy≥oøy≥,1
+wy≥πczeni,1
+wyøej,1
+wyøyn,1
+wyøynach,1
+wyøynie,1
+wyøyny,3
+wyøynÍ,1
+wyøywienia,1
+wyøywienie,1
+wzbogaci≥em,1
+wzbudzajπc,1
+wzd≥uø,3
+wzesz≥o,1
+wzglπd,1
+wzglÍdem,2
+wzglÍdu,10
+wzgÛrze,1
+wzgÛrzu,2
+wziπwszy,1
+wziπ≥,15
+wziπ≥em,1
+wziπÊ,4
+wziÍli,1
+wziÍta,1
+wziÍty,1
+wziÍ≥a,2
+wzniesiemy,1
+wzniesieÒ,1
+wznoszπc,1
+wzruszenia,2
+wzywajπc,1
+wzywa≥,1
+wzywaÊ,3
+wzÛr,1
+wúrÛd,15
+w≥adca,2
+w≥adcami,2
+w≥adcy,3
+w≥adcπ,2
+w≥adcÛw,1
+w≥adzπ,1
+w≥adzÍ,2
+w≥asna,1
+w≥asne,6
+w≥asnego,7
+w≥asnej,2
+w≥asnoúci,1
+w≥asnoúciπ,3
+w≥asnoúÊ,16
+w≥asnych,1
+w≥asnym,3
+w≥asnymi,2
+w≥asnπ,2
+w≥aúnie,22
+w≥osami,2
+w≥osem,1
+w≥osy,1
+w≥oøono,2
+w≥oøy≥,3
+w≥oøy≥em,1
+w≥Ûø,2
+wπø,3
+wÍdrÛwki,1
+wÍøa,1
+wÍøowi,1
+wÛd,5
+wÛwczas,3
+wÛz,2
+z,504
+za,123
+zaatakujπ,1
+zabalsamowali,1
+zabalsamowano,1
+zabawiÊ,1
+zabezpieczajπc,1
+zabezpieczenie,1
+zabieracie,1
+zabieraj,1
+zabierz,2
+zabierze,2
+zabije,1
+zabijemy,1
+zabijπ,1
+zabili,2
+zabiorπ,1
+zabitego,1
+zabity,1
+zabitych,1
+zabi≥,2
+zabi≥by,1
+zabiÊ,6
+zabola≥y,1
+zabraknie,1
+zabrak≥o,2
+zabrali,2
+zabrania,1
+zabranie,1
+zabrano,1
+zabrawszy,1
+zabra≥,9
+zabra≥a,1
+zabra≥aú,1
+zabraÊ,6
+zachodniej,1
+zachodzie,1
+zachorowa≥,1
+zachowania,1
+zachowa≥,2
+zachowa≥eú,1
+zachowywane,1
+zachÛd,3
+zaczerpnπÊ,2
+zaczerpnÍ,1
+zacznie,2
+zaczynajπc,1
+zaczyÒ,1
+zaczπtkiem,1
+zaczπ≥,9
+zaczπÊ,1
+zaczÍli,13
+zaczÍto,1
+zaczÍ≥a,9
+zaczÍ≥am,2
+zaczÍ≥o,6
+zaczÍ≥y,5
+zadajπc,1
+zadanie,1
+zadoúÊ,1
+zadrøa≥,1
+zadufany,1
+zaginie,1
+zagranie,1
+zag≥ada,1
+zag≥ady,1
+zag≥adzie,2
+zag≥adπ,1
+zag≥adÍ,2
+zag≥ÍbieÒ,1
+zajmowali,2
+zajmujecie,1
+zajmujπ,1
+zajmujπc,1
+zajπÊ,1
+zajÍcia,1
+zakaza≥,1
+zakopa≥,1
+zakrytπ,1
+zakrywano,1
+zakrywa≥y,1
+zakrywszy,1
+zakup,1
+zakupione,1
+zakupiÊ,2
+zalega≥y,1
+zalewaÊ,1
+zaleøa≥a,1
+zaludniajcie,1
+zamian,3
+zamiarem,1
+zamiary,1
+zamiast,4
+zamieni≥a,1
+zamieniÊ,1
+zamierza,2
+zamierzam,1
+zamierzamy,1
+zamierzasz,1
+zamierza≥,2
+zamierza≥a,1
+zamierzπ,1
+zamieszka,1
+zamieszkaj,1
+zamieszkali,1
+zamieszkamy,1
+zamieszkane,2
+zamieszkasz,1
+zamieszka≥,3
+zamieszka≥a,1
+zamieszka≥ego,1
+zamieszka≥ych,1
+zamieszkaÊ,2
+zamieszkiwali,2
+zamieszkiwane,2
+zamieszkiwa≥,1
+zamieszkujπcy,1
+zamieszkujπcych,1
+zamknie,1
+zamknπ≥,4
+zamknπÊ,1
+zamknÍ≥y,1
+zamoønego,1
+zamoøniejszy,1
+zamÍøna,1
+zaniesiesz,1
+zaniesione,1
+zanieúcie,1
+zanim,6
+zanurzyli,1
+zaofiarowa≥,1
+zaopatrywa≥,1
+zaopatrzenie,2
+zapach,2
+zapad≥,3
+zapalonπ,1
+zapamiÍta≥,1
+zapanowa≥,1
+zapas,1
+zapasy,4
+zapasÛw,1
+zapewne,2
+zapewnia≥,1
+zapewniÊ,2
+zaplπta≥,1
+zapomni,2
+zapomniany,1
+zapomnieÊ,1
+zapowiedzia≥,1
+zaprawÍ,1
+zaprosi≥,1
+zaproszonych,1
+zaprowadzi,1
+zaprowadzi≥,3
+zaprowadziÊ,1
+zaprzeczy≥a,1
+zaprzestali,1
+zaprzestano,1
+zapyta,2
+zapytajmy,1
+zapytali,2
+zapytam,1
+zapyta≥,25
+zapyta≥a,1
+zapyta≥em,1
+zapytaÊ,1
+zap≥acili,1
+zap≥aci≥,1
+zap≥aciÊ,1
+zap≥aka≥,2
+zap≥aty,3
+zap≥atπ,2
+zap≥atÍ,8
+zap≥odniÊ,1
+zap≥onπ≥,2
+zap≥onÍli,1
+zap≥onÍ≥a,1
+zaraz,11
+zarazem,1
+zaroi,1
+zaroi≥y,1
+zaryglowali,1
+zarzucili,1
+zarzπd,1
+zarzπdca,3
+zarzπdcy,5
+zarzπdcπ,5
+zarzπdza,1
+zarzπdzi≥,1
+zarÛwno,4
+zasiadajπcych,1
+zasiadam,1
+zasiadaÊ,1
+zasiad≥,1
+zasiedli,2
+zasiewy,2
+zasiewÛw,1
+zasi≥kÛw,1
+zasmucili,1
+zasmuci≥o,1
+zasnπ≥,2
+zastaw,3
+zastÍpowaÊ,1
+zasypali,1
+zasypane,1
+zaszczytnym,1
+zasz≥o,3
+zas≥ona,1
+zas≥oni≥a,1
+zas≥onÍ,1
+zatajaÊ,1
+zatem,16
+zatroskani,1
+zatroszczy≥,1
+zatrwoøyli,1
+zatrzyma,1
+zatrzymajπ,1
+zatrzymali,1
+zatrzymanego,1
+zatrzyma≥,3
+zatrzymaÊ,1
+zatrzymuj,1
+zatrzymujcie,1
+zatrzymuje,1
+zatrzymujπc,2
+zaufanie,1
+zauwaøy≥,5
+zauwaøy≥a,1
+zawahasz,1
+zawaha≥eú,2
+zawarciu,1
+zawarli,3
+zawarte,3
+zawar≥,1
+zawar≥em,3
+zawieram,4
+zawiesi≥,1
+zawini≥em,1
+zawiúciπ,1
+zawory,2
+zawo≥ali,1
+zawo≥a≥,9
+zawo≥a≥a,2
+zawrzeÊ,3
+zawrzyjmy,1
+zawrÍ,3
+zawrÛciwszy,1
+zawsze,7
+zaw≥adnπ,1
+zazieleni,1
+zazieleni≥a,1
+zazwyczaj,1
+zaú,61
+zaúwiaty,2
+za≥adowali,2
+za≥oøyciele,1
+za≥oøywszy,1
+za≥oøy≥a,1
+zaøπda≥eú,1
+zaøπdaÊ,1
+zbadaÊ,1
+zbezczeúci≥eú,1
+zbieg,3
+zbieraÊ,1
+zbiorπ,1
+zbiorÛw,3
+zbliø,1
+zbliøa,2
+zbliøali,1
+zbliøam,1
+zbliøa≥,4
+zbliøa≥y,1
+zbliøeniem,1
+zbliøyli,2
+zbliøysz,1
+zbliøy≥,12
+zbliøy≥a,2
+zbliøyÊ,3
+zbliøÍ,1
+zboøa,20
+zboøe,11
+zboøem,4
+zbrodni,1
+zbrodniπ,1
+zbrodniÍ,2
+zbrukana,1
+zbudowa≥,12
+zbuduj,1
+zbudujemy,1
+zbyt,3
+zbyteczne,1
+zbÛjÛw,1
+zdarli,1
+zdarza≥y,1
+zdawa≥o,1
+zdaÊ,1
+zdjπ≥,2
+zdjÍ≥a,1
+zdobycia,1
+zdobycz,1
+zdobytego,1
+zdobytym,1
+zdobyÊ,1
+zdo≥a,1
+zdo≥ali,2
+zdo≥amy,1
+zdo≥asz,1
+zdo≥a≥,1
+zdrady,1
+zdumienie,1
+ze,96
+zebrane,1
+zebrani,2
+zebranych,1
+zebra≥,2
+zechce,3
+zechcecie,1
+zechcesz,2
+zechcia≥,2
+zechcia≥eú,1
+zechciejcie,1
+zechcπ,1
+zejdzie,1
+zejdÍ,2
+zemúciÊ,1
+zepsucia,1
+zestarza≥,1
+zestarza≥em,1
+zes≥a≥,3
+zes≥aÊ,1
+zewnπtrz,7
+zeúlÍ,1
+zgadzacie,1
+zgadzajπ,1
+zginie,1
+zginiesz,1
+zginπ≥,1
+zginπÊ,2
+zginÍli,1
+zginÍ≥o,1
+zgodnie,9
+zgody,1
+zgodzie,1
+zgodzili,2
+zgodzisz,1
+zgodzi≥,2
+zgodzi≥a,1
+zgodziÊ,2
+zgromadzi≥,1
+zgwa≥cenie,1
+zgwa≥ci≥,1
+zgwa≥ciÊ,1
+zg≥adziÊ,1
+zg≥adzÍ,1
+zhaÒbiona,2
+zhaÒbi≥,1
+ziaren,2
+ziarna,6
+ziarnka,1
+ziarno,2
+zielone,1
+zielonymi,1
+ziemi,90
+ziemia,6
+ziemie,3
+ziemiπ,7
+ziemiÍ,32
+zima,1
+zimna,1
+zimno,1
+ziÍciowie,1
+ziÍciÛw,2
+zjad≥,1
+zjad≥am,1
+zjad≥em,1
+zjad≥eú,1
+zjawiÍ,2
+zjednaÊ,1
+zjedzenia,1
+zjesz,1
+zlatywaÊ,1
+zleci≥,1
+zmagania,1
+zmagaÊ,1
+zmarli,1
+zmar≥,1
+zmar≥a,5
+zmar≥ego,1
+zmar≥ej,1
+zmar≥ych,4
+zmar≥π,6
+zmiaødøy,1
+zmienia≥,1
+zmienia≥eú,1
+zmierza≥,1
+zmierzyÊ,1
+zmieÒcie,1
+zmruøyÊ,1
+zmuszany,1
+zmusza≥,1
+zmÍczony,1
+zna,2
+znacie,1
+znaczenia,1
+znaczenie,4
+znaczy,40
+znaczyÊ,1
+znaczπcy,1
+znad,1
+znajdowa≥,3
+znajdowa≥a,2
+znajdowa≥o,3
+znajduje,6
+znajdujemy,1
+znajdujπ,2
+znajdujπca,1
+znajdujπce,1
+znajdujπcy,2
+znajdujπcych,1
+znajdujπcym,1
+znajdujπcπ,3
+znajdzie,6
+znajdziemy,3
+znajdziesz,1
+znajdπ,2
+znajdÍ,1
+znak,5
+znaki,3
+znakiem,1
+znalaz≥,16
+znalaz≥a,1
+znalaz≥em,2
+znalaz≥eú,2
+znalaz≥oby,1
+znalaz≥y,1
+znaleziony,2
+znaleüli,5
+znaleüliúmy,3
+znaleüÊ,2
+znalibyúcie,1
+znamiÍ,1
+znamy,1
+zniecierpliwiony,1
+znienawidzili,3
+znienawidzπ,1
+znieúÊ,1
+zniknie,1
+zniknπ≥,2
+zniknÍ≥o,1
+zniknÍ≥y,1
+zniszczenia,3
+zniszczysz,1
+zniszczyÊ,3
+zniszczÍ,2
+znosiÊ,2
+znowu,1
+znuøony,1
+znÛw,28
+zobacz,1
+zobaczcie,1
+zobaczy,1
+zobaczyli,1
+zobaczywszy,3
+zobaczy≥,18
+zobaczy≥a,4
+zobaczy≥em,1
+zobaczyÊ,7
+zobaczπ,1
+zobaczÍ,2
+zobowiπzywaÊ,1
+zostali,5
+zostanie,4
+zostanπ,2
+zostanÍ,1
+zostawiajπc,2
+zostawia≥,1
+zostawili,1
+zostawi≥,3
+zostawiπ,1
+zostawiÊ,2
+zosta≥,17
+zosta≥a,9
+zosta≥am,1
+zosta≥eú,1
+zosta≥o,5
+zosta≥y,4
+zostaÊ,5
+zrani≥,1
+zresztπ,2
+zrobienia,1
+zrobili,3
+zrobi≥,4
+zrobiÊ,2
+zrodzeni,1
+zrodziÊ,1
+zrodzony,1
+zrodzonπ,1
+zrozumia≥,1
+zrywa≥em,1
+zrÛb,4
+zrÛbcie,2
+zrÛbmy,1
+zrÛwnali,1
+zstπpi,2
+zstπpi≥,1
+zstÍpowali,1
+zsy≥a,1
+zsy≥ajπc,1
+zsy≥a≥,3
+zuchwalstwo,1
+zuchwa≥π,1
+zupe≥nie,3
+zwanego,1
+zwanej,3
+zwanych,1
+zwanym,2
+zwaøyÊ,1
+zwierzyny,2
+zwierzπt,12
+zwierzÍ,6
+zwierzÍcia,2
+zwierzÍta,19
+zwierzÍtami,2
+zwierzÍtom,1
+zwiπza≥,1
+zwiπzaÊ,1
+zwlekali,1
+zwolniony,2
+zwo≥awszy,1
+zwo≥a≥a,1
+zwo≥aÊ,1
+zwracajπc,1
+zwrotu,1
+zwrÛcisz,1
+zwrÛci≥a,1
+zwrÛciÊ,1
+zwyciÍstwie,1
+zwyciÍstwo,1
+zwyczaju,2
+zwykle,1
+zwyk≥ej,1
+zwyk≥o,1
+zwyk≥π,2
+zw≥aszcza,3
+z≥a,4
+z≥agodziÊ,1
+z≥e,2
+z≥ego,7
+z≥em,2
+z≥emu,1
+z≥o,3
+z≥orzeczyli,1
+z≥orzeczy≥,1
+z≥ota,4
+z≥ote,1
+z≥oto,1
+z≥oty,2
+z≥oøono,1
+z≥oøony,1
+z≥oøyli,1
+z≥oøy≥,10
+z≥oøy≥eú,4
+z≥oøyÊ,3
+z≥oøÍ,1
+z≥upione,1
+z≥ych,1
+z≥ym,1
+z≥Ûø,1
+zÍby,1
+åni≥o,2
+åpieszyli,1
+èle,1
+úcieøce,1
+úcigasz,1
+úciga≥,1
+úcigaÊ,1
+úciskajπc,1
+úciúle,1
+úciπgnπÊ,1
+úciπÊ,1
+úciÍgna,1
+úciÍgno,1
+úlad,1
+úladem,1
+úlub,1
+úluby,1
+úmia≥,1
+úmia≥am,1
+úmia≥aú,1
+úmiaÊ,1
+úmieje,1
+úmierci,12
+úmierciπ,4
+úmierÊ,5
+únie,10
+úni≥o,1
+úpieszono,1
+úpiewÛw,1
+úredni,1
+úrodka,1
+úrodku,2
+úwiadczy,1
+úwiadczy≥,1
+úwiadectwa,1
+úwiadkami,3
+úwiadkiem,2
+úwiadomi,1
+úwiat,31
+úwiata,2
+úwiat≥a,1
+úwiat≥o,7
+úwiat≥oúÊ,1
+úwiecie,1
+úwieci≥o,1
+úwiecπce,1
+úwieøych,1
+úwita,1
+úwiπtecznych,1
+úwiÍtym,1
+üle,3
+ürÛd≥a,2
+ürÛd≥em,1
+ürÛd≥o,3
+ürÛd≥u,1
+£aska,1
+£πcznie,8
+Øa≥ujÍ,1
+Øona,1
+Øyjπc,1
+Øywego,1
+Øπdam,1
+≥aciate,1
+≥ania,1
+≥ask,1
+≥askaw,5
+≥askawie,2
+≥askawoúci,4
+≥askawoúÊ,4
+≥askÍ,2
+≥aty,6
+≥aÒcuch,1
+≥odygi,2
+≥okci,4
+≥okieÊ,1
+≥ona,2
+≥onie,4
+≥ono,3
+≥owca,1
+≥oøa,2
+≥oøe,2
+≥oøu,1
+≥ucznikiem,1
+≥udzπc,1
+≥uk,5
+≥uku,2
+≥upom,1
+≥upu,1
+≥πcznie,2
+≥πczy,1
+≥πczπc,1
+øaden,2
+øadnego,9
+øadnej,13
+øadnych,1
+øadnym,3
+øadnymi,2
+øal,1
+øartuje,1
+øa≥oba,1
+øa≥obny,1
+øa≥obnym,2
+øa≥obnπ,1
+øa≥oby,3
+øa≥owa≥,1
+øe,238
+øebro,2
+øeby,52
+øebym,8
+øebyú,4
+øebyúcie,4
+øebyúmy,3
+øegnany,1
+øelaza,1
+øeúcie,1
+ømija,1
+øniwa,1
+øon,5
+øona,19
+øonami,4
+øonie,3
+øony,46
+øonπ,16
+øonÍ,37
+øycia,18
+øycie,15
+øyciu,5
+øyczeniem,1
+øyczliwego,1
+øyczliwi,1
+øyczliwoúci,1
+øyczliwoúÊ,1
+øyczliwy,3
+øyczysz,1
+øyczy≥,1
+øyczπc,1
+øyje,11
+øyjesz,2
+øyjπ,4
+øyjπca,1
+øyjπce,4
+øyjπcy,1
+øyjπcych,1
+øyjπcym,2
+øyjπcymi,1
+øyjÍ,1
+øyli,2
+øywa,1
+øywe,6
+øywej,2
+øywi,1
+øywicy,1
+øywicznego,1
+øywicπ,1
+øywicÍ,1
+øywiej,2
+øywi≥em,1
+øywiπ,1
+øywiÊ,1
+øywnoúci,3
+øywy,2
+øywych,4
+øywymi,1
+øywπ,7
+øyzna,1
+øy≥,23
+øy≥o,1
+øyÊ,1
+øπda,1
+øπdanie,1
+øπda≥,1
+øÍcia,1
+”smego,1
+”w,1
+Ûsmego,1
+Ûw,18
