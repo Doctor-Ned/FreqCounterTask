@@ -24,24 +24,13 @@ inline freqcounter<char> countCharacters(std::string filePath)
     return counter;
 }
 
-inline std::string clearWord(const std::string& word, bool clearApostrophes)
+inline std::string clearWord(const std::string& word)
 {
-    std::string trimmed;
-    size_t apostrophePos = word.find_last_of('\'');
-    if (!clearApostrophes || apostrophePos == std::string::npos)
-    {
-        trimmed = word;
-    } else
-    {
-        trimmed = word.substr(0, apostrophePos);
-    }
     std::stringstream ss;
-    const std::locale LOCALE_EN("en_US"), LOCALE_PL("pl_PL"), LOCALE_IT("it_IT");
-    for (char character : trimmed)
+    const std::locale LOCALE_PL("pl_PL");
+    for (char character : word)
     {
-        if (isalpha(character, LOCALE_EN) ||
-            isalpha(character, LOCALE_PL) ||
-            isalpha(character, LOCALE_IT))
+        if (isalpha(character, LOCALE_PL))
         {
             ss << character;
         }
@@ -49,7 +38,7 @@ inline std::string clearWord(const std::string& word, bool clearApostrophes)
     return ss.str();
 }
 
-inline freqcounter<std::string> countWords(std::string filePath, bool clearApostrophes)
+inline freqcounter<std::string> countWords(std::string filePath)
 {
     freqcounter<std::string> counter;
     std::ifstream file(filePath);
@@ -60,7 +49,7 @@ inline freqcounter<std::string> countWords(std::string filePath, bool clearApost
     std::string currWord;
     while (file >> currWord)
     {
-        std::string cleanWord = clearWord(currWord, clearApostrophes);
+        std::string cleanWord = clearWord(currWord);
         if (!cleanWord.empty())
         {
             counter.addData(cleanWord);

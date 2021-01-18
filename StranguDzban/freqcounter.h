@@ -8,7 +8,6 @@ class freqcounter
 {
 public:
     void addData(T t);
-    std::map<T, unsigned int> getOccurrenceCount();
     void create(std::string filePath);
 private:
     std::map<T, unsigned int> occurrenceCount{};
@@ -25,12 +24,6 @@ void freqcounter<T>::addData(T t)
     {
         occurrenceCount.emplace(t, 1U);
     }
-}
-
-template <typename T>
-std::map<T, unsigned> freqcounter<T>::getOccurrenceCount()
-{
-    return occurrenceCount;
 }
 
 template<typename T>

@@ -9,7 +9,7 @@ int main()
     freqcounter<char> fc_ch_pl = countCharacters("biblia-pl_ksiega_rdzaju.txt");
     freqcounter<char> fc_ch_en = countCharacters("biblia-en.txt");
     freqcounter<char> fc_ch_it = countCharacters("biblia-it.txt");
-    freqcounter<std::string> fc_s_pl = countWords("biblia-pl_ksiega_rdzaju.txt", false);
+    freqcounter<std::string> fc_s_pl = countWords("biblia-pl_ksiega_rdzaju.txt");
     freqcounter<int> fc_int;
     for (int i = 0; i < 1'000'000; ++i)
     {
